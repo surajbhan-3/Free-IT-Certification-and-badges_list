@@ -4,7 +4,7 @@
  <details><summary> <strong> HTML </strong> </summary>
   
   <ol> 
-    <li><a href="">sfdfs</a></li>
+    <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
   </ol>
 
 </details>
