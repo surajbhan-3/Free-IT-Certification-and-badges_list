@@ -2,23 +2,13 @@
 
 
  <details><summary> <strong> HTML </strong> </summary>
-  
-  <ol> 
-    <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
-  </ol>
+ 
+   <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
 
 </details>
  <details><summary> <strong> CSS </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
-
-</p>
- + [jhghjgjh](hldfkdfa.com)
   
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
-
+  <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
 </details>
  <details><summary> <strong> JavaScript </strong> </summary>
 <p>
