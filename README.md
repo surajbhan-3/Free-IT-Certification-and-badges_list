@@ -138,9 +138,19 @@ HTML [jhghjgjh](hldfkdfa.com)
 </details>
 
 
- <details><summary> <strong> Web Development </strong> </summary>
+ <details><summary> <strong> Frontend </strong> </summary>
 
 <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries by freecodecamp</a></li>
+  
+ 
+ 
+
+</details>
+
+<details><summary> <strong> Backend</strong> </summary>
+
+<li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs by freecodecamp</a></li>
   
  
 
