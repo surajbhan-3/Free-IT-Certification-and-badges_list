@@ -13,6 +13,7 @@
    <details><summary> <strong> CSS </strong> </summary>
   <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
+   <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
         
 </details>
 
@@ -30,20 +31,20 @@ HTML [jhghjgjh](hldfkdfa.com)
   <ol> 
     <li><a href="">sfdfs</a></li>
   </ol>
+ 
 
 </details>
+
+
  <details><summary> <strong> Python </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
+ <li><a href="https://masai-school.learnworlds.com/course/pbm">Introduction to Python by Masai School</a></li>
 
-</p>
- + [jhghjgjh](hldfkdfa.com)
-  
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
 
 </details>
+
+
+
+
  <details><summary> <strong> Java </strong> </summary>
 <p>
 HTML [jhghjgjh](hldfkdfa.com)
