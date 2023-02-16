@@ -1,12 +1,97 @@
 # Free-IT-Certification_list
 
-HTML
-CSS
-JavaScript
-Python
-Java
-C++
-TypeScript
-Node.js
-NPM
-Django
+
+ <details><summary> <strong> HTML </strong> </summary>
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+ <details><summary> <strong> CSS </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+ <details><summary> <strong> JavaScript </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+ <details><summary> <strong> Python </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+ <details><summary> <strong> Java </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+ <details><summary> <strong> C++ </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+ <details><summary> <strong> TypeScript </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+
+
+ <details><summary> <strong> Node.js </strong> </summary>
+<p>
+HTML [jhghjgjh](hldfkdfa.com)
+
+</p>
+ + [jhghjgjh](hldfkdfa.com)
+  
+  <ol> 
+    <li><a href="">sfdfs</a></li>
+  </ol>
+
+</details>
+
