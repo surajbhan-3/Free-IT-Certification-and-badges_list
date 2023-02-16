@@ -23,6 +23,7 @@
 
  <details><summary> <strong> JavaScript </strong> </summary>
 
+ <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures by Freecodecamp</a></li>
  
 
 </details>
@@ -128,6 +129,18 @@ HTML [jhghjgjh](hldfkdfa.com)
 
  <details><summary> <strong> React </strong> </summary>
 
+  
+ 
+
+</details>
+
+
+</details>
+
+
+ <details><summary> <strong> Web Development </strong> </summary>
+
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
   
  
 
