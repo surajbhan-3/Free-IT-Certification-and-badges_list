@@ -22,15 +22,7 @@
 
 
  <details><summary> <strong> JavaScript </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
 
-</p>
- + [jhghjgjh](hldfkdfa.com)
-  
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
  
 
 </details>
@@ -84,15 +76,67 @@ HTML [jhghjgjh](hldfkdfa.com)
 
 
  <details><summary> <strong> Node.js </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
 
-</p>
- + [jhghjgjh](hldfkdfa.com)
   
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
+ 
 
 </details>
+
+ <details><summary> <strong> SQL </strong> </summary>
+ 
+  <li><a href="https://masai-school.learnworlds.com/course/intro-to-sql">Basics of SQL by Masai School</a></li>
+
+  
+ 
+
+</details>
+
+
+
+ <details><summary> <strong> Linux </strong> </summary>
+
+  
+ 
+
+</details>
+
+
+
+ <details><summary> <strong> Vue.js </strong> </summary>
+
+  
+ 
+
+</details>
+
+
+ <details><summary> <strong> Git </strong> </summary>
+
+  
+ 
+
+</details>
+
+
+ <details><summary> <strong>  </strong> </summary>
+
+  
+ 
+
+</details>
+
+
+ <details><summary> <strong> React </strong> </summary>
+
+  
+ 
+
+</details>
+
+
+
+
+
+
+
 
