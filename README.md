@@ -6,10 +6,20 @@
    <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
 
 </details>
- <details><summary> <strong> CSS </strong> </summary>
-  
+
+
+
+
+   <details><summary> <strong> CSS </strong> </summary>
   <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
+   <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
+        
 </details>
+
+
+
+
+
  <details><summary> <strong> JavaScript </strong> </summary>
 <p>
 HTML [jhghjgjh](hldfkdfa.com)
