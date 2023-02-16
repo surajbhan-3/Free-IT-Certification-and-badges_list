@@ -63,15 +63,8 @@ HTML [jhghjgjh](hldfkdfa.com)
 
 </details>
  <details><summary> <strong> TypeScript </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
+ <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
 
-</p>
- + [jhghjgjh](hldfkdfa.com)
-  
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
 
 </details>
 
@@ -104,7 +97,7 @@ HTML [jhghjgjh](hldfkdfa.com)
 
 
  <details><summary> <strong> Vue.js </strong> </summary>
-
+ <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li>
   
  
 
@@ -140,8 +133,13 @@ HTML [jhghjgjh](hldfkdfa.com)
 
  <details><summary> <strong> Frontend </strong> </summary>
 
+
+ <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part1">basics of frontend development part1 by Masai School</a></li>
+ <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part2">basics of frontend development part2 by Masai School</a></li>
 <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
 <li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries by freecodecamp</a></li>
+ 
+ 
   
  
  
