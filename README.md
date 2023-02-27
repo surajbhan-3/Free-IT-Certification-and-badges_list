@@ -4,6 +4,21 @@
  <details><summary> <strong> HTML </strong> </summary>
  
    <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 
 </details>
 
@@ -14,6 +29,21 @@
   <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
         
 </details>
 
@@ -31,9 +61,24 @@
 
  <details><summary> <strong> Python </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/pbm">Introduction to Python by Masai School</a></li>
+ <li><a href="https://www.simplilearn.com/learn-python-basics-free-course-skillup?referrer=course-recommended">Python for Beginners by Simplilearn</a></li>
+<li><a href="https://www.simplilearn.com/getting-started-data-science-with-python-skillup">Applied Data Science with python by Simplilearn</a></li>
+<li><a href="https://www.kaggle.com/learn/python">Learn python by kaggle</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 
 
-</details>
+</details> 
 
 
 
@@ -104,6 +149,95 @@
 
 </details>
 
+ <details><summary> <strong>Go</strong> </summary>
+ <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+
+</details>
+
+
+ <details><summary> <strong> PHP </strong> </summary>
+ <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+
+</details>
+
+
+ <details><summary> <strong> Swift </strong> </summary>
+ <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+
+</details>
+
+
+
+ <details><summary> <strong> Ruby </strong> </summary>
+ <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+
+</details>
+
+
 
  <details><summary> <strong> Node.js </strong> </summary>
 
@@ -131,21 +265,16 @@
  
   <li><a href="https://masai-school.learnworlds.com/course/intro-to-sql">Basics of SQL by Masai School</a></li>
 
-  <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+  <li><a href="https://www.simplilearn.com/free-opencv-training-course-skillup">Introduction to Sql by simplilearn</a></li>
+<li><a href="https://www.kaggle.com/learn/intro-to-sql">Intro to sql by kaggle</a></li>
+<li><a href="https://www.kaggle.com/learn/advanced-sql">Advanced sql by kaggle</a></li>
+<li><a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">learn sql by oracle</a></li>
+<li><a href="https://alison.com/course/introduction-to-database-concepts-revised">Intro to database by Alison</a></li>
+<li><a href="https://alison.com/course/sql-server-2014-security-fundamentals">Sql Sever Securtiy by Alison</a></li>
+<li><a href="https://testbook.com/sql-tutorial-for-beginners/online-coaching-free-certification-course">Sql for beginners by Testbook</a></li>
+<li><a href="https://alison.com/course/sql-server-core-2016">Sql server core 2016 by Alison</a></li>
+<li><a href="https://alison.com/course/exploring-sql-server-2016-fundamentals">sql server 2016 fundamentals by Alison</a></li>
+
  
 
 </details>
@@ -249,6 +378,9 @@
 </details>
 
 
+
+
+
 </details>
 
 
@@ -274,12 +406,139 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
- 
-  
- 
+</details>
+
+
+ <details><summary> <strong> MongoDB </strong> </summary>
+
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+</details>
+
+ <details><summary> <strong>MySql </strong> </summary>
+
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics">Mysql Basics by Greatlearning</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
 
 </details>
+
+
+ <details><summary> <strong>PostgreSQL  </strong> </summary>
+
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
+
+
+
+ <details><summary> <strong> Redis </strong> </summary>
+
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
+
+
+ <details><summary> <strong> Cassandra </strong> </summary>
+
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
+
+
+ <details><summary> <strong> MariaDB </strong> </summary>
+
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
+
 
 <details><summary> <strong> Backend</strong> </summary>
 
@@ -288,6 +547,27 @@
  <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+</details>
+
+
+
+<details><summary> <strong>Machine Learning</strong> </summary>
+ <li><a href="https://www.simplilearn.com/free-machine-learning-course-skillup?referrer=course-recommended">Beginner’s Guide to Machine learning by simplilearn</a></li>
+<li><a href="https://www.kaggle.com/learn/intro-to-machine-learning">Intro to machine learning by kaggle</a></li>
+<li><a href="https://www.kaggle.com/learn/intermediate-machine-learning">Intermediate machine learning by Kaggle</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
