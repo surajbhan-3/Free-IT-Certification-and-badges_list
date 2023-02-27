@@ -37,33 +37,70 @@
 
 
 
-
  <details><summary> <strong> Java </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
 
-</p>
- + [jhghjgjh](hldfkdfa.com)
-  
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
+<li><a href="https://alison.com/course/java-part-1-what-s-new">Java-part-1 by Alison</a></li>
+<li><a href="https://alison.com/course/java-part-2-various-updates-security-and-ria">Java-part-2 by Alison</a></li>
+
+<li><a href="https://alison.com/course/an-introduction-to-java-programming">Introduction to Java Programming by alison</a></li>
+<li><a href="https://alison.com/course/java-programming-masterclass">Java Programming Masterclass by alison</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+     
 
 </details>
+
+
  <details><summary> <strong> C++ </strong> </summary>
-<p>
-HTML [jhghjgjh](hldfkdfa.com)
-
-</p>
- + [jhghjgjh](hldfkdfa.com)
-  
-  <ol> 
-    <li><a href="">sfdfs</a></li>
-  </ol>
-
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 </details>
+
+
  <details><summary> <strong> TypeScript </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 
 
 </details>
@@ -71,6 +108,21 @@ HTML [jhghjgjh](hldfkdfa.com)
 
  <details><summary> <strong> Node.js </strong> </summary>
 
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
   
  
 
@@ -80,7 +132,21 @@ HTML [jhghjgjh](hldfkdfa.com)
  
   <li><a href="https://masai-school.learnworlds.com/course/intro-to-sql">Basics of SQL by Masai School</a></li>
 
-  
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
 
 </details>
@@ -89,7 +155,21 @@ HTML [jhghjgjh](hldfkdfa.com)
 
  <details><summary> <strong> Linux </strong> </summary>
 
-  
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
 
 </details>
@@ -105,7 +185,21 @@ HTML [jhghjgjh](hldfkdfa.com)
 
 
  <details><summary> <strong> Git </strong> </summary>
-
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
   
  
 
@@ -114,7 +208,21 @@ HTML [jhghjgjh](hldfkdfa.com)
 
  <details><summary> <strong>  </strong> </summary>
 
-  
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
 
 </details>
@@ -122,7 +230,21 @@ HTML [jhghjgjh](hldfkdfa.com)
 
  <details><summary> <strong> React </strong> </summary>
 
-  
+  <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
 
 </details>
@@ -138,7 +260,21 @@ HTML [jhghjgjh](hldfkdfa.com)
  <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part2">basics of frontend development part2 by Masai School</a></li>
 <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
 <li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries by freecodecamp</a></li>
- 
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
   
  
@@ -150,7 +286,21 @@ HTML [jhghjgjh](hldfkdfa.com)
 
 <li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs by freecodecamp</a></li>
   
- 
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 
 </details>
 
