@@ -2,9 +2,8 @@
 
 
  <details><summary> <strong> HTML </strong> </summary>
- 
-   <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
- <li><a href=""></a></li>
+ <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -29,8 +28,8 @@
   <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
- <li><a href=""></a></li>
-<li><a href=""></a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css">Css by Great Learning</a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -54,6 +53,21 @@
  <details><summary> <strong> JavaScript </strong> </summary>
 
  <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures by Freecodecamp</a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript">Introduction To JavaScript by Great Learning</a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-javascript">Building Games Using JavaScript By Great Learning</a></li>
+
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
  
 
 </details>
@@ -64,8 +78,8 @@
  <li><a href="https://www.simplilearn.com/learn-python-basics-free-course-skillup?referrer=course-recommended">Python for Beginners by Simplilearn</a></li>
 <li><a href="https://www.simplilearn.com/getting-started-data-science-with-python-skillup">Applied Data Science with python by Simplilearn</a></li>
 <li><a href="https://www.kaggle.com/learn/python">Learn python by kaggle</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-non-programmers1">Python for non Programmers by Great Learning</a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/web-scraping-with-python">Web Scrapping with Python by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -87,7 +101,7 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming">Java Programming by My Great Learning</a></li>
 <li><a href="https://education.oracle.com/java/java/pFamily_48">Java by oracle</a></li>
 <li><a href="https://www.simplilearn.com/learn-java-basics-skillup">Java Training by Simplilearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-java">Building Game using Java by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -106,7 +120,7 @@
 
 
  <details><summary> <strong> C++ </strong> </summary>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-tutorial">C tutorial by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -146,8 +160,8 @@
 </details>
 
  <details><summary> <strong>Go</strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
  <li><a href=""></a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language">Go programming language by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -168,7 +182,7 @@
 
 
  <details><summary> <strong> PHP </strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/php">PHP by Great learning</a></li>
  <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -190,7 +204,7 @@
 
 
  <details><summary> <strong> Swift </strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/swift-tutorial">Swift tutorial by Great Learning</a></li>
  <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -266,7 +280,8 @@
 <li><a href="https://www.kaggle.com/learn/advanced-sql">Advanced sql by kaggle</a></li>
 <li><a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">learn sql by oracle</a></li>
 <li><a href="https://testbook.com/sql-tutorial-for-beginners/online-coaching-free-certification-course">Sql for beginners by Testbook</a></li>
-
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-projects-for-beginners">Sql Projects for Beginners by Great Learning</a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-sql">Advanced sql by Great Learning</a></li>
 
  
 
@@ -276,9 +291,8 @@
 
  <details><summary> <strong> Linux </strong> </summary>
 
-  <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/linux-tutorial">Linux Tutorial by Great Learning</a></li>
+
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -351,7 +365,7 @@
 
  <details><summary> <strong> React </strong> </summary>
 
-  <li><a href=""></a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -404,7 +418,7 @@
 
  <details><summary> <strong> MongoDB </strong> </summary>
 
-  <li><a href=""></a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial">MongoDb Tutorial by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -425,7 +439,7 @@
  <details><summary> <strong>MySql </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics">Mysql Basics by Greatlearning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql">Python My sql</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -491,7 +505,7 @@
 
  <details><summary> <strong> Cassandra </strong> </summary>
 
-  <li><a href=""></a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/cassandra-tutorial">Cassandra Tutorial by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -577,6 +591,28 @@
 </details>
 
 
+
+
+ <details><summary> <strong>UI/UX</strong> </summary>
+
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/ui-ux">UI/UX for Beginners by Great Learning</a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/ux-portfolio">UX Portfolio by Great Learning</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
 
 
 
