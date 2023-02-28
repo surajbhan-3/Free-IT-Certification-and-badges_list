@@ -1,15 +1,15 @@
 # Free-IT-Certification_list
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,angular,go,mysql,mongodb,vue,sass,ruby,react,postgres,php,linux,kotlin,flutter"/>
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,angular,go,mysql,mongodb,vue,sass,ruby,react,postgres,php,linux,kotlin,flutter"/> -->
 
 
 <img src="https://skillicons.dev/icons?i=html"/>
  <details><summary> <strong> HTML </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
-<!--  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a</li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a</li>
 <li><a href="https://www.simplilearn.com/free-html-course-for-beginners-skillup">Html course for beginners by Simplilearn</a></li>
 <li><a href="https://testbook.com/html-tutorial-for-beginners/online-coaching-free-certification-course">Html Tutorial by Testbook</a></li>
-<li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li> -->
+<li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li>
 </details>
 
 
@@ -17,21 +17,30 @@
 
 
 
-       <img src="https://skillicons.dev/icons?i=css"/>
-                             <details><summary> <strong> CSS </strong> </summary>
-         <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
-          <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
-          <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
-        <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css">Css by Great Learning</a></li>
-       <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
-       <li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
+<img src="https://skillicons.dev/icons?i=css"/>
+       <details><summary> <strong> CSS </strong> </summary>
+ <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
+ <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
+        
 
-       </details>
+ <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
+       
+
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css">Css by Great Learning</a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
+        
+ <li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
+        
+ 
+       
+  </details>
 
 
 
 
 <hr>
+  
+<img src="https://skillicons.dev/icons?i=js"/>
  <details><summary> <strong> JavaScript </strong> </summary>
 
  <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures by Freecodecamp</a></li>
@@ -50,7 +59,9 @@
 
 </details>
 
+  <hr>
 
+<img src="https://skillicons.dev/icons?i=python"/>
  <details><summary> <strong> Python </strong> </summary>
  
  <li><a href="https://masai-school.learnworlds.com/course/pbm">Introduction to Python by Masai School</a></li>
@@ -67,6 +78,9 @@
 </details> 
 <hr>
 
+  
+  
+<img src="https://skillicons.dev/icons?i=java"/>
 
  <details><summary> <strong> Java </strong> </summary>
 
@@ -86,6 +100,8 @@
 
 <hr>  
 
+  
+<img src="https://skillicons.dev/icons?i=c"/>
 
  <details><summary> <strong> C</strong> </summary>
 <li><a href="https://www.sololearn.com/learn/courses/c-introduction">Introduction to C by Sololearn</a></li>
@@ -105,6 +121,9 @@
 <li><a href=""></a></li>
 </details>
 
+  <hr>
+  
+<img src="https://skillicons.dev/icons?i=cs"/>
  <details><summary> <strong> C#</strong> </summary>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-introduction">Introduction to C# by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-intermediate">C# intermediate by Sololearn</a></li>
@@ -124,6 +143,9 @@
 </details>
 
 
+  <hr>
+  
+<img src="https://skillicons.dev/icons?i=cpp"/>
  <details><summary> <strong> C++ </strong> </summary>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-tutorial">C tutorial by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-introduction">Introduction to C++ by Sololearn</a></li>
@@ -143,6 +165,9 @@
 </details>
 
 <hr>
+  
+  
+<img src="https://skillicons.dev/icons?i=ts"/>
  <details><summary> <strong> TypeScript </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
  <li><a href=""></a></li>
@@ -163,7 +188,11 @@
 
 
 </details>
+  
+  <hr>
+  
 
+<img src="https://skillicons.dev/icons?i=go"/>
  <details><summary> <strong>Go</strong> </summary>
  <li><a href=""></a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language">Go programming language by Great Learning</a></li>
@@ -185,7 +214,9 @@
 
 </details>
 
+  <hr>
 
+<img src="https://skillicons.dev/icons?i=php"/>
  <details><summary> <strong> PHP </strong> </summary>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/php">PHP by Great learning</a></li>
  <li><a href="https://www.sololearn.com/learning/1059">PHP by Sololearn</a></li>
@@ -207,7 +238,9 @@
 
 </details>
 
+  <hr>
 
+<img src="https://skillicons.dev/icons?i=swift"/>
  <details><summary> <strong> Swift </strong> </summary>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/swift-tutorial">Swift tutorial by Great Learning</a></li>
  <li><a href="https://www.sololearn.com/learning/1075">Swift4 by Sololearn</a></li>
@@ -230,9 +263,10 @@
 </details>
 
 
-</details>
 
+  <hr>
 
+<img src="https://skillicons.dev/icons?i=kotlin"/>
  <details><summary> <strong> Kotlin </strong> </summary>
  <li><a href="https://www.sololearn.com/learning/1160">Kotlin by Sololearn</a></li>
  <li><a href=""></a></li>
@@ -254,8 +288,9 @@
 
 </details>
 
+<hr>
 
-
+<img src="https://skillicons.dev/icons?i=ruby"/>
  <details><summary> <strong> Ruby </strong> </summary>
  <li><a href="https://www.sololearn.com/learning/1081">Ruby By Sololearn</a></li>
 <li><a href=""></a></li>
@@ -277,7 +312,7 @@
 </details>
 
 
-
+<hr>
 
 
  <details><summary> <strong> SQL </strong> </summary>
@@ -298,9 +333,11 @@
 
 
 
+  <hr>
 
 
 
+<img src="https://skillicons.dev/icons?i=vue"/>
  <details><summary> <strong> Vue.js </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li> 
 </details>
@@ -309,6 +346,9 @@
 
 
 
+  <hr>
+  
+<img src="https://skillicons.dev/icons?i=angular"/>
  <details><summary> <strong> Angular </strong> </summary>
 
   <li><a href=""></a></li>
@@ -329,8 +369,12 @@
  
 
 </details>
+  
+  
+  <hr>
 
 
+<img src="https://skillicons.dev/icons?i=react"/>
  <details><summary> <strong> React </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
@@ -359,9 +403,11 @@
 </details>
 
 
+  <hr>
 
 
 
+<img src="https://skillicons.dev/icons?i=mongodb"/>
  <details><summary> <strong> MongoDB </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial">MongoDb Tutorial by Great Learning</a></li>
@@ -382,6 +428,10 @@
 
 </details>
 
+
+  <hr>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
  <details><summary> <strong>MySql </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics">Mysql Basics by Greatlearning</a></li>
@@ -404,6 +454,9 @@
 </details>
 
 
+  <hr>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
  <details><summary> <strong>PostgreSQL  </strong> </summary>
 
   <li><a href=""></a></li>
@@ -425,8 +478,10 @@
 
 </details>
 
+  <hr>
 
 
+<img src="https://skillicons.dev/icons?i=redis"/>
  <details><summary> <strong> Redis </strong> </summary>
 
   <li><a href=""></a></li>
@@ -447,8 +502,10 @@
  
 
 </details>
+<hr>
 
 
+<img src="https://skillicons.dev/icons?i=cassandra"/>
  <details><summary> <strong> Cassandra </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/cassandra-tutorial">Cassandra Tutorial by Great Learning</a></li>
@@ -471,6 +528,9 @@
 </details>
 
 
+  <hr>
+
+<img src="https://skillicons.dev/icons?i=maria"/>
  <details><summary> <strong> MariaDB </strong> </summary>
 
   <li><a href=""></a></li>
@@ -495,6 +555,7 @@
 
 
 
+  <hr>
 
 
 <details><summary> <strong>Machine Learning</strong> </summary>
@@ -517,7 +578,9 @@
 </details>
 
 
+  <hr>
 
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/7858/7858975.png">
 
  <details><summary> <strong>UI/UX</strong> </summary>
 
@@ -541,6 +604,9 @@
 </details>
 
 
+  <hr>
+
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png">
  <details><summary> <strong> Frontend </strong> </summary>
 
 
@@ -566,6 +632,8 @@
 </details>
 
 
+  <hr>
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/2282/2282215.png">
 <details><summary> <strong> Backend</strong> </summary>
 
 <li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs by freecodecamp</a></li>
@@ -588,6 +656,9 @@
 
 </details>
 
+<hr>
+
+<img  src="https://skillicons.dev/icons?i=nodejs"/>
  <details><summary> <strong> Node.js </strong> </summary>
 
 <li><a href=""></a></li>
@@ -611,7 +682,9 @@
 </details>
 
 
+  <hr>
 
+<img src="https://skillicons.dev/icons?i=git"/>
  <details><summary> <strong> Git </strong> </summary>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -633,6 +706,10 @@
 
 </details>
 
+
+  <hr>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
  <details><summary> <strong> Linux </strong> </summary>
 
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/linux-tutorial">Linux Tutorial by Great Learning</a></li>
