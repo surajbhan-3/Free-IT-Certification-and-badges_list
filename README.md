@@ -3,36 +3,28 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,angular,go,mysql,mongodb,vue,sass,ruby,react,postgres,php,linux,kotlin,flutter"/>
 
 
+<img src="https://skillicons.dev/icons?i=html"/>
  <details><summary> <strong> HTML </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
- <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a>       </li>
+<li><a href="https://www.simplilearn.com/free-html-course-for-beginners-skillup">Html course for beginners by Simplilearn</a></li>
+<li><a href="https://testbook.com/html-tutorial-for-beginners/online-coaching-free-certification-course">Html Tutorial by Testbook</a></li>
+<li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li>
 </details>
 
 
+<hr>
 
 
+
+<img src="https://skillicons.dev/icons?i=css"/>
    <details><summary> <strong> CSS </strong> </summary>
   <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
    <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css">Css by Great Learning</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -51,14 +43,14 @@
 
 
 
-
+<hr>
  <details><summary> <strong> JavaScript </strong> </summary>
 
  <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures by Freecodecamp</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript">Introduction To JavaScript by Great Learning</a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-javascript">Building Games Using JavaScript By Great Learning</a></li>
 
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/javascript-introduction">Introduction to Javascript by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -82,8 +74,8 @@
 <li><a href="https://www.kaggle.com/learn/python">Learn python by kaggle</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-non-programmers1">Python for non Programmers by Great Learning</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/web-scraping-with-python">Web Scrapping with Python by Great Learning</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/python-introduction">Introduction to Python by Sololearn</a></li>
+<li><a href="https://www.sololearn.com/learn/courses/python-intermediate">Intermediate Python by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -95,8 +87,7 @@
 
 
 </details> 
-
-
+<hr>
 
  <details><summary> <strong> Java </strong> </summary>
 
@@ -104,7 +95,7 @@
 <li><a href="https://education.oracle.com/java/java/pFamily_48">Java by oracle</a></li>
 <li><a href="https://www.simplilearn.com/learn-java-basics-skillup">Java Training by Simplilearn</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-java">Building Game using Java by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/java-introduction">Introduction to java by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -120,9 +111,11 @@
 
 </details>
 
+<hr>  
 
- <details><summary> <strong> C++ </strong> </summary>
-<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-tutorial">C tutorial by Great Learning</a></li>
+
+ <details><summary> <strong> C</strong> </summary>
+<li><a href="https://www.sololearn.com/learn/courses/c-introduction">Introduction to C by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -139,7 +132,44 @@
 <li><a href=""></a></li>
 </details>
 
+ <details><summary> <strong> C#</strong> </summary>
+<li><a href="https://www.sololearn.com/learn/courses/c-sharp-introduction">Introduction to C# by Sololearn</a></li>
+<li><a href="https://www.sololearn.com/learn/courses/c-sharp-intermediate">C# intermediate by Sololearn</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</details>
 
+
+ <details><summary> <strong> C++ </strong> </summary>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-tutorial">C tutorial by Great Learning</a></li>
+<li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-introduction">Introduction to C++ by Sololearn</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</details>
+
+<hr>
  <details><summary> <strong> TypeScript </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
  <li><a href=""></a></li>
@@ -267,7 +297,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
+
   
  
 
@@ -284,6 +314,7 @@
 <li><a href="https://testbook.com/sql-tutorial-for-beginners/online-coaching-free-certification-course">Sql for beginners by Testbook</a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-projects-for-beginners">Sql Projects for Beginners by Great Learning</a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-sql">Advanced sql by Great Learning</a></li>
+  <li><a href="https://www.sololearn.com/learn/courses/sql-introduction">Introduction to sql by Sololearn</a></li>
 
  
 
