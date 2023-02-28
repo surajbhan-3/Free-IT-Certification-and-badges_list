@@ -6,10 +6,10 @@
 <img src="https://skillicons.dev/icons?i=html"/>
  <details><summary> <strong> HTML </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
- <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a>       </li>
+<!--  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a</li>
 <li><a href="https://www.simplilearn.com/free-html-course-for-beginners-skillup">Html course for beginners by Simplilearn</a></li>
 <li><a href="https://testbook.com/html-tutorial-for-beginners/online-coaching-free-certification-course">Html Tutorial by Testbook</a></li>
-<li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li>
+<li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li> -->
 </details>
 
 
@@ -17,28 +17,16 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=css"/>
-   <details><summary> <strong> CSS </strong> </summary>
-  <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
-   <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
-   <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
- <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css">Css by Great Learning</a></li>
-<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
-<li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-        
-</details>
+       <img src="https://skillicons.dev/icons?i=css"/>
+                             <details><summary> <strong> CSS </strong> </summary>
+         <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
+          <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
+          <li><a href="https://masai-school.learnworlds.com/course/sass">Syntactically Awesome Stylesheet by Masai School</a></li>
+        <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css">Css by Great Learning</a></li>
+       <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
+       <li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
+
+       </details>
 
 
 
@@ -51,23 +39,20 @@
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-javascript">Building Games Using JavaScript By Great Learning</a></li>
 
 <li><a href="https://www.sololearn.com/learn/courses/javascript-introduction">Introduction to Javascript by Sololearn</a></li>
+<li><a href="https://www.sololearn.com/learn/courses/javascript-intermediate">Javascript Intermediate by Sololearn</a></li>
+<li><a href="https://www.sololearn.com/learning/1175">Game Development by Soloearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
  
 
 </details>
 
 
  <details><summary> <strong> Python </strong> </summary>
+ 
  <li><a href="https://masai-school.learnworlds.com/course/pbm">Introduction to Python by Masai School</a></li>
  <li><a href="https://www.simplilearn.com/learn-python-basics-free-course-skillup?referrer=course-recommended">Python for Beginners by Simplilearn</a></li>
 <li><a href="https://www.simplilearn.com/getting-started-data-science-with-python-skillup">Applied Data Science with python by Simplilearn</a></li>
@@ -76,18 +61,12 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/web-scraping-with-python">Web Scrapping with Python by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/python-introduction">Introduction to Python by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/python-intermediate">Intermediate Python by Sololearn</a></li>
+<li><a href="https://www.sololearn.com/learning/1159">Python Data Structure by Sololearn</a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
 
 </details> 
 <hr>
+
 
  <details><summary> <strong> Java </strong> </summary>
 
@@ -96,13 +75,7 @@
 <li><a href="https://www.simplilearn.com/learn-java-basics-skillup">Java Training by Simplilearn</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-java">Building Game using Java by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/java-introduction">Introduction to java by Sololearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/java-intermediate">Java Intermediate by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -116,7 +89,7 @@
 
  <details><summary> <strong> C</strong> </summary>
 <li><a href="https://www.sololearn.com/learn/courses/c-introduction">Introduction to C by Sololearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/c-intermediate">Intermediate  C by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -154,7 +127,7 @@
  <details><summary> <strong> C++ </strong> </summary>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-tutorial">C tutorial by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-introduction">Introduction to C++ by Sololearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-intermediate">Intermediate C++ by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -194,7 +167,7 @@
  <details><summary> <strong>Go</strong> </summary>
  <li><a href=""></a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language">Go programming language by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learning/1164">Go by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -215,7 +188,7 @@
 
  <details><summary> <strong> PHP </strong> </summary>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/php">PHP by Great learning</a></li>
- <li><a href=""></a></li>
+ <li><a href="https://www.sololearn.com/learning/1059">PHP by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -237,6 +210,31 @@
 
  <details><summary> <strong> Swift </strong> </summary>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/swift-tutorial">Swift tutorial by Great Learning</a></li>
+ <li><a href="https://www.sololearn.com/learning/1075">Swift4 by Sololearn</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+
+</details>
+
+
+</details>
+
+
+ <details><summary> <strong> Kotlin </strong> </summary>
+ <li><a href="https://www.sololearn.com/learning/1160">Kotlin by Sololearn</a></li>
  <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -259,8 +257,7 @@
 
 
  <details><summary> <strong> Ruby </strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
- <li><a href=""></a></li>
+ <li><a href="https://www.sololearn.com/learning/1081">Ruby By Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -281,27 +278,7 @@
 
 
 
- <details><summary> <strong> Node.js </strong> </summary>
 
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
-  
- 
-
-</details>
 
  <details><summary> <strong> SQL </strong> </summary>
  
@@ -315,66 +292,24 @@
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-projects-for-beginners">Sql Projects for Beginners by Great Learning</a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-sql">Advanced sql by Great Learning</a></li>
   <li><a href="https://www.sololearn.com/learn/courses/sql-introduction">Introduction to sql by Sololearn</a></li>
-
+  <li><a href="https://www.sololearn.com/learn/courses/sql-intermediate">Intermediate Sql by Sololearn</a></li>
  
-
 </details>
 
 
 
- <details><summary> <strong> Linux </strong> </summary>
-
-<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/linux-tutorial">Linux Tutorial by Great Learning</a></li>
-
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
- 
-
-</details>
 
 
 
  <details><summary> <strong> Vue.js </strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li>
-  
- 
-
+ <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li> 
 </details>
 
 
- <details><summary> <strong> Git </strong> </summary>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-  
- 
-
-</details>
 
 
- <details><summary> <strong>  </strong> </summary>
+
+ <details><summary> <strong> Angular </strong> </summary>
 
   <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -399,7 +334,7 @@
  <details><summary> <strong> React </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -424,29 +359,7 @@
 </details>
 
 
- <details><summary> <strong> Frontend </strong> </summary>
 
-
- <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part1">basics of frontend development part1 by Masai School</a></li>
- <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part2">basics of frontend development part2 by Masai School</a></li>
-<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
-<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries by freecodecamp</a></li>
- <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-</details>
 
 
  <details><summary> <strong> MongoDB </strong> </summary>
@@ -580,27 +493,7 @@
 </details>
 
 
-<details><summary> <strong> Backend</strong> </summary>
 
-<li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs by freecodecamp</a></li>
-  
- <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
-</details>
 
 
 
@@ -642,9 +535,118 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
+ 
 <li><a href=""></a></li>
  
+</details>
 
+
+ <details><summary> <strong> Frontend </strong> </summary>
+
+
+ <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part1">basics of frontend development part1 by Masai School</a></li>
+ <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part2">basics of frontend development part2 by Masai School</a></li>
+<li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries by freecodecamp</a></li>
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</details>
+
+
+<details><summary> <strong> Backend</strong> </summary>
+
+<li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs by freecodecamp</a></li>
+  
+ <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+</details>
+
+ <details><summary> <strong> Node.js </strong> </summary>
+
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+  
+ 
+
+</details>
+
+
+
+ <details><summary> <strong> Git </strong> </summary>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+  
+ 
+
+</details>
+
+ <details><summary> <strong> Linux </strong> </summary>
+
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/linux-tutorial">Linux Tutorial by Great Learning</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 </details>
 
 
