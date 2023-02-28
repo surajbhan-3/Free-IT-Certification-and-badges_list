@@ -315,25 +315,6 @@
 <hr>
 
 
- <details><summary> <strong> SQL </strong> </summary>
- 
-  <li><a href="https://masai-school.learnworlds.com/course/intro-to-sql">Basics of SQL by Masai School</a></li>
-
-  <li><a href="https://www.simplilearn.com/free-opencv-training-course-skillup">Introduction to Sql by simplilearn</a></li>
-<li><a href="https://www.kaggle.com/learn/intro-to-sql">Intro to sql by kaggle</a></li>
-<li><a href="https://www.kaggle.com/learn/advanced-sql">Advanced sql by kaggle</a></li>
-<li><a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">learn sql by oracle</a></li>
-<li><a href="https://testbook.com/sql-tutorial-for-beginners/online-coaching-free-certification-course">Sql for beginners by Testbook</a></li>
-  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-projects-for-beginners">Sql Projects for Beginners by Great Learning</a></li>
-  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-sql">Advanced sql by Great Learning</a></li>
-  <li><a href="https://www.sololearn.com/learn/courses/sql-introduction">Introduction to sql by Sololearn</a></li>
-  <li><a href="https://www.sololearn.com/learn/courses/sql-intermediate">Intermediate Sql by Sololearn</a></li>
- 
-</details>
-
-
-
-  <hr>
 
 
 
@@ -397,13 +378,31 @@
 </details>
 
 
+<hr>
 
 
+    
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
+ <details><summary> <strong> SQL </strong> </summary>
+ 
+  <li><a href="https://masai-school.learnworlds.com/course/intro-to-sql">Basics of SQL by Masai School</a></li>
 
+  <li><a href="https://www.simplilearn.com/free-opencv-training-course-skillup">Introduction to Sql by simplilearn</a></li>
+<li><a href="https://www.kaggle.com/learn/intro-to-sql">Intro to sql by kaggle</a></li>
+<li><a href="https://www.kaggle.com/learn/advanced-sql">Advanced sql by kaggle</a></li>
+<li><a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">learn sql by oracle</a></li>
+<li><a href="https://testbook.com/sql-tutorial-for-beginners/online-coaching-free-certification-course">Sql for beginners by Testbook</a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/sql-projects-for-beginners">Sql Projects for Beginners by Great Learning</a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-sql">Advanced sql by Great Learning</a></li>
+  <li><a href="https://www.sololearn.com/learn/courses/sql-introduction">Introduction to sql by Sololearn</a></li>
+  <li><a href="https://www.sololearn.com/learn/courses/sql-intermediate">Intermediate Sql by Sololearn</a></li>
+ 
 </details>
 
 
+
   <hr>
+
 
 
 
