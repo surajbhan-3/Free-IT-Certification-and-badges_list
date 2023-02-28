@@ -730,6 +730,9 @@
 
 
 <hr>
+  Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men. Enthusiasm in our daily work lightens effort and turns even      labor into pleasant tasks.
+
+#### ~ James Baldwin
 <hr>
 
 
