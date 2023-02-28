@@ -1,5 +1,7 @@
 # Free-IT-Certification_list
 
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,angular,go,mysql,mongodb,vue,sass,ruby,react,postgres,php,linux,kotlin,flutter"/>
+
 
  <details><summary> <strong> HTML </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
