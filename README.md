@@ -34,6 +34,35 @@
  
        
   </details>
+  
+  <hr>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
+       <details><summary> <strong>Bootstrap </strong> </summary>
+ <li><a ">     </a></li>
+  <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+ 
+ <hr>
+ 
+  <img src="https://skillicons.dev/icons?i=tailwind"/>
+       <details><summary> <strong>Tailwind </strong> </summary>
+ <li><a ">     </a></li>
+  <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
 
 
 
@@ -603,9 +632,7 @@
   <hr>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/2282/2282215.png">
 <details><summary> <strong> Backend</strong> </summary>
-
 <li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs by freecodecamp</a></li>
-  
  <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -625,6 +652,19 @@
 </details>
 
 <hr>
+ <img src="https://skillicons.dev/icons?i=d3"/>
+       <details><summary> <strong>D3</strong> </summary>
+ <li><a ">     </a></li>
+  <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+  <hr>
 
 <img  src="https://skillicons.dev/icons?i=nodejs"/>
  <details><summary> <strong> Node.js </strong> </summary>
@@ -642,15 +682,57 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-
-  
+<li><a href=""></a></li> 
  
 
 </details>
 
 
+<hr>
+ <img src="https://skillicons.dev/icons?i=django"/>
+       <details><summary> <strong>Django</strong> </summary>
+ <li><a ">     </a></li>
+  <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+
+
+
   <hr>
+    <img src="https://skillicons.dev/icons?i=docker"/>
+       <details><summary> <strong>Docker</strong> </summary>
+ <li><a src="https://www.simplilearn.com/learn-docker-basics-free-course-skillup"> Basics of Docker by Simplilearn</a></li>
+  <li><a src="https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-best-practices"> Docker best practices by Great Learning </a></li>
+
+ <li><a src="https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-orchestration"> Docker orchestration by Great Learning  </a></li>
+
+ <li><a src="https://www.mygreatlearning.com/docker/free-courses?p=1&duration=medium"> Docker for Intermediate level by Great Learning</a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+  <hr>
+  
+   <img src="https://skillicons.dev/icons?i=aws"/>
+       <details><summary> <strong>AWS</strong> </summary>
+ <li><a "https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
+  <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+
+  
 
 <img src="https://skillicons.dev/icons?i=git"/>
  <details><summary> <strong> Git </strong> </summary>
@@ -681,7 +763,7 @@
  <details><summary> <strong> Linux </strong> </summary>
 
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/linux-tutorial">Linux Tutorial by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://kodekloud.com/courses/linux-challenges/">Linux Challenges by Kodekloud</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
