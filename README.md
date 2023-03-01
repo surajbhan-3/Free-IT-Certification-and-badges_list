@@ -93,7 +93,7 @@
 <li><a href="https://www.sololearn.com/learn/courses/javascript-introduction">Introduction to Javascript by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/javascript-intermediate">Javascript Intermediate by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learning/1175">Game Development by Soloearn</a></li>
-  <li><a href="  https://www.mindluster.com/certificate/65">Vanilla Javascript by Mindluster</a></li>
+  <li><a href="https://www.mindluster.com/certificate/65">Vanilla Javascript by Mindluster</a></li>
 
 
 </details>
@@ -156,18 +156,6 @@
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-introduction">Introduction to C# by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-intermediate">C# intermediate by Sololearn</a></li>
 
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 </details>
 
 
@@ -180,16 +168,8 @@
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-intermediate">Intermediate C++ by Sololearn</a></li>
 <li><a href="https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup">Learn C++ by Simplilearn</a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
+
 </details>
 
 <hr>
@@ -213,16 +193,7 @@
 <li><a href="https://www.mindluster.com/certificate/332">Go by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 
 </details>
@@ -236,17 +207,7 @@
 <li><a href="https://www.mindluster.com/certificate/71">php frontend and backend by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 
 </details>
