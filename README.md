@@ -1,6 +1,7 @@
 # Free-IT-Certification_list
 
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,angular,go,mysql,mongodb,vue,sass,ruby,react,postgres,php,linux,kotlin,flutter"/> -->
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,go,mysql,mongodb,vue,sass,ruby,react,postgres,
+,linux,kotlin,flutter"/> -->
 
 
 <img src="https://skillicons.dev/icons?i=html"/>
@@ -38,7 +39,7 @@
   <hr>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
        <details><summary> <strong>Bootstrap </strong> </summary>
- <li><a ">     </a></li>
+ <li><a  href="https://www.mindluster.com/certificate/75 "> Bootstrap by Mindluster    </a></li>
   <li><a ">     </a></li>
 
  <li><a ">     </a></li>
@@ -53,7 +54,7 @@
  
   <img src="https://skillicons.dev/icons?i=tailwind"/>
        <details><summary> <strong>Tailwind </strong> </summary>
- <li><a ">     </a></li>
+ <li><a href="https://www.mindluster.com/certificate/238"> Tailwind by Mindluster  </a></li>
   <li><a ">     </a></li>
 
  <li><a ">     </a></li>
@@ -63,11 +64,24 @@
  <li><a ">     </a></li>
        
   </details>
-
-
-
-
 <hr>
+  
+  <img src="https://skillicons.dev/icons?i=materialui"/>
+       <details><summary> <strong>Materialui </strong> </summary>
+ <li><a href="https://www.mindluster.com/certificate/2447">Learn materialui by mindluster </a></li>
+  <li><a "">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+<hr>
+  
+  
+  
   
 <img src="https://skillicons.dev/icons?i=js"/>
  <details><summary> <strong> JavaScript </strong> </summary>
@@ -79,6 +93,8 @@
 <li><a href="https://www.sololearn.com/learn/courses/javascript-introduction">Introduction to Javascript by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/javascript-intermediate">Javascript Intermediate by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learning/1175">Game Development by Soloearn</a></li>
+  <li><a href="  https://www.mindluster.com/certificate/65">Vanilla Javascript by Mindluster</a></li>
+
 
 </details>
 
@@ -183,7 +199,7 @@
  <details><summary> <strong> TypeScript </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
  <li><a href="https://www.simplilearn.com/free-typescript-course-skillup?term=typescr">Learn Typescript by Simplilearn</a></li>
-
+<li><a href="https://www.mindluster.com/certificate/242">Typescript by Mindluster</a></li>
 </details>
   
   <hr>
@@ -194,7 +210,7 @@
  <li><a href=""></a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language">Go programming language by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learning/1164">Go by Sololearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/332">Go by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -217,7 +233,7 @@
  <details><summary> <strong> PHP </strong> </summary>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/php">PHP by Great learning</a></li>
  <li><a href="https://www.sololearn.com/learning/1059">PHP by Sololearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/71">php frontend and backend by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -332,7 +348,7 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners">Angular7 for beginners by Great Learning</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-advanced-level">Advanced angular by Great Learning</a></li>
 <li><a href="https://www.simplilearn.com/learn-angular-basics-free-course-skillup">Basic Angular by Simplilearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/57">Angular with firebase by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -359,9 +375,9 @@
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
 
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/38">React with projects by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -376,6 +392,27 @@
 </details>
 
 
+<hr>
+  
+  
+  <img src="https://skillicons.dev/icons?i=laravel"/>
+ <details><summary> <strong> Laravel </strong> </summary>
+
+
+<li><a href="https://www.mindluster.com/certificate/67">Laravel from scratch by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/245">Laravel 6 by Mindluster</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
 <hr>
 
 
@@ -404,11 +441,11 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongdb"/>
  <details><summary> <strong> MongoDB </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial">MongoDb Tutorial by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/538">Mongodb by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -560,7 +597,7 @@
 <li><a href="https://www.kaggle.com/learn/intro-to-machine-learning">Intro to machine learning by kaggle</a></li>
 <li><a href="https://www.kaggle.com/learn/intermediate-machine-learning">Intermediate machine learning by Kaggle</a></li>
 <li><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine Learning with python</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/379">Machine learning field by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -669,7 +706,7 @@
 <img  src="https://skillicons.dev/icons?i=nodejs"/>
  <details><summary> <strong> Node.js </strong> </summary>
 
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/68">Nodejs by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -722,7 +759,7 @@
    <img src="https://skillicons.dev/icons?i=aws"/>
        <details><summary> <strong>AWS</strong> </summary>
  <li><a href="https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
-  <li><a ">     </a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1">Aws for beginners by Great Learning</a></li>
 
  <li><a ">     </a></li>
 
