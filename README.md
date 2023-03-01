@@ -707,12 +707,12 @@
   <hr>
     <img src="https://skillicons.dev/icons?i=docker"/>
        <details><summary> <strong>Docker</strong> </summary>
- <li><a src="https://www.simplilearn.com/learn-docker-basics-free-course-skillup"> Basics of Docker by Simplilearn</a></li>
-  <li><a src="https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-best-practices"> Docker best practices by Great Learning </a></li>
+ <li><a href="https://www.simplilearn.com/learn-docker-basics-free-course-skillup"> Basics of Docker by Simplilearn</a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-best-practices"> Docker best practices by Great Learning </a></li>
 
- <li><a src="https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-orchestration"> Docker orchestration by Great Learning  </a></li>
+ <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/docker-orchestration"> Docker orchestration by Great Learning  </a></li>
 
- <li><a src="https://www.mygreatlearning.com/docker/free-courses?p=1&duration=medium"> Docker for Intermediate level by Great Learning</a></li>
+ <li><a href="https://www.mygreatlearning.com/docker/free-courses?p=1&duration=medium"> Docker for Intermediate level by Great Learning</a></li>
 
  <li><a ">     </a></li>
        
@@ -721,7 +721,7 @@
   
    <img src="https://skillicons.dev/icons?i=aws"/>
        <details><summary> <strong>AWS</strong> </summary>
- <li><a "https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
+ <li><a href="https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
   <li><a ">     </a></li>
 
  <li><a ">     </a></li>
@@ -732,7 +732,7 @@
        
   </details>
 
-  
+  <hr>
 
 <img src="https://skillicons.dev/icons?i=git"/>
  <details><summary> <strong> Git </strong> </summary>
