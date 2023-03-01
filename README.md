@@ -50,16 +50,11 @@
 <li><a href="https://www.sololearn.com/learn/courses/javascript-introduction">Introduction to Javascript by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/javascript-intermediate">Javascript Intermediate by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learning/1175">Game Development by Soloearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
- 
 
 </details>
 
   <hr>
+  
 
 <img src="https://skillicons.dev/icons?i=python"/>
  <details><summary> <strong> Python </strong> </summary>
@@ -73,7 +68,7 @@
 <li><a href="https://www.sololearn.com/learn/courses/python-introduction">Introduction to Python by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/python-intermediate">Intermediate Python by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learning/1159">Python Data Structure by Sololearn</a></li>
-<li><a href=""></a></li>
+
 
 </details> 
 <hr>
@@ -90,9 +85,8 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/building-games-using-java">Building Game using Java by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/java-introduction">Introduction to java by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/java-intermediate">Java Intermediate by Sololearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://data-flair.training/free-java-course/">java course by Data flair</a></li>
+
 
      
 
@@ -100,25 +94,14 @@
 
 <hr>  
 
-  
 <img src="https://skillicons.dev/icons?i=c"/>
 
  <details><summary> <strong> C</strong> </summary>
 <li><a href="https://www.sololearn.com/learn/courses/c-introduction">Introduction to C by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-intermediate">Intermediate  C by Sololearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-for-beginners1">C for beginners by Great Learning</a></li>
+<li><a href="https://www.simplilearn.com/free-c-course-skillup?tag=c">C course by Simplilearn</a></li>
+
 </details>
 
   <hr>
@@ -150,7 +133,7 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-tutorial">C tutorial by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-introduction">Introduction to C++ by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-intermediate">Intermediate C++ by Sololearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup">Learn C++ by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -170,22 +153,7 @@
 <img src="https://skillicons.dev/icons?i=ts"/>
  <details><summary> <strong> TypeScript </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
- <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-
+ <li><a href="https://www.simplilearn.com/free-typescript-course-skillup?term=typescr">Learn Typescript by Simplilearn</a></li>
 
 </details>
   
@@ -358,9 +326,10 @@
 <img src="https://skillicons.dev/icons?i=react"/>
  <details><summary> <strong> React </strong> </summary>
 
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">React by Freecodecamp</a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
-<li><a href=""></a></li>
+
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -561,7 +530,7 @@
  <li><a href="https://www.simplilearn.com/free-machine-learning-course-skillup?referrer=course-recommended">Beginner’s Guide to Machine learning by simplilearn</a></li>
 <li><a href="https://www.kaggle.com/learn/intro-to-machine-learning">Intro to machine learning by kaggle</a></li>
 <li><a href="https://www.kaggle.com/learn/intermediate-machine-learning">Intermediate machine learning by Kaggle</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Machine Learning with python</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -685,7 +654,7 @@
 
 <img src="https://skillicons.dev/icons?i=git"/>
  <details><summary> <strong> Git </strong> </summary>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/github-tutorial-for-beginners1">Git and Github Tutorial by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
