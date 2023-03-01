@@ -300,9 +300,9 @@
 <img src="https://skillicons.dev/icons?i=angular"/>
  <details><summary> <strong> Angular </strong> </summary>
 
-  <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-beginners">Angular7 for beginners by Great Learning</a></li>
+<li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-advanced-level">Advanced angular by Great Learning</a></li>
+<li><a href="https://www.simplilearn.com/learn-angular-basics-free-course-skillup">Basic Angular by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
