@@ -146,7 +146,7 @@
 <li><a href="https://www.sololearn.com/learn/courses/c-intermediate">Intermediate  C by Sololearn</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/c-for-beginners1">C for beginners by Great Learning</a></li>
 <li><a href="https://www.simplilearn.com/free-c-course-skillup?tag=c">C course by Simplilearn</a></li>
-
+  <li><a href="https://www.mindluster.com/certificate/8710">c beginner by Mindluster</a></li>
 </details>
 
   <hr>
@@ -155,7 +155,7 @@
  <details><summary> <strong> C#</strong> </summary>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-introduction">Introduction to C# by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-intermediate">C# intermediate by Sololearn</a></li>
-<li><a href=""></a></li>
+
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -275,6 +275,29 @@
 
 </details>
 
+  <hr>
+  
+  
+<img src="https://skillicons.dev/icons?i=springboot"/>
+ <details><summary> <strong> Springboot </strong> </summary>
+
+<li><a href="https://www.mindluster.com/certificate/401">Learn springboot by Mindluster</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+
+</details>
 
 
   <hr>
@@ -707,7 +730,7 @@
  <details><summary> <strong> Node.js </strong> </summary>
 
 <li><a href="https://www.mindluster.com/certificate/68">Nodejs by Mindluster</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/39">Full Nodejs with js by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -726,9 +749,9 @@
 
 
 <hr>
- <img src="https://skillicons.dev/icons?i=django"/>
+ <img srf="https://skillicons.dev/icons?i=django"/>
        <details><summary> <strong>Django</strong> </summary>
- <li><a ">     </a></li>
+ <li><a href="https://www.mindluster.com/certificate/8482">Django Programming by Mindluster     </a></li>
   <li><a ">     </a></li>
 
  <li><a ">     </a></li>
@@ -761,7 +784,7 @@
  <li><a href="https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1">Aws for beginners by Great Learning</a></li>
 
- <li><a ">     </a></li>
+ <li><a href="https://www.mindluster.com/certificate/8611">Aws for beginners by Mindluster </a></li>
 
  <li><a ">     </a></li>
 
@@ -774,7 +797,7 @@
 <img src="https://skillicons.dev/icons?i=git"/>
  <details><summary> <strong> Git </strong> </summary>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/github-tutorial-for-beginners1">Git and Github Tutorial by Great Learning</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/8475">Git by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -801,7 +824,7 @@
 
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/linux-tutorial">Linux Tutorial by Great Learning</a></li>
 <li><a href="https://kodekloud.com/courses/linux-challenges/">Linux Challenges by Kodekloud</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/8469">Linux/mac by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
