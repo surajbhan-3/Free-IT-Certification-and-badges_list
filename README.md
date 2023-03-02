@@ -1,6 +1,6 @@
 # Free-IT-Certification_list
 
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,swift,ts,go,mysql,mongodb,vue,sass,ruby,react,postgres,
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,,cpp,python,,ts,go,mysql,mongodb,vue,sass,react,postgres,
 ,linux,kotlin,flutter"/> -->
 
 
@@ -20,7 +20,7 @@
 
 <img src="https://skillicons.dev/icons?i=css"/>
        <details><summary> <strong> CSS </strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
+ 
  <li><a href="https://masai-school.learnworlds.com/course/animation">Introduction to animation by Masai School</a></li>
         
 
@@ -39,8 +39,10 @@
   <hr>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
        <details><summary> <strong>Bootstrap </strong> </summary>
- <li><a  href="https://www.mindluster.com/certificate/75 "> Bootstrap by Mindluster    </a></li>
-  <li><a ">     </a></li>
+       <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
+     <li><a href="https://www.mindluster.com/certificate/1559"> Bootstrap for beginner by Mindluster   </a></li>    
+ <li><a  href="https://www.mindluster.com/certificate/75 "> Bootstrap5 by Mindluster    </a></li>
+
 
  <li><a ">     </a></li>
 
@@ -131,6 +133,10 @@
 <li><a href="https://www.sololearn.com/learn/courses/java-introduction">Introduction to java by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/java-intermediate">Java Intermediate by Sololearn</a></li>
 <li><a href="https://data-flair.training/free-java-course/">java course by Data flair</a></li>
+<li><a href="https://www.simplilearn.com/learn-java-basics-skillup?tag=fullstack%20java">java Basics skills fullstack by Simplilearn</a></li>
+
+<li><a href="https://www.simplilearn.com/free-full-stack-java-developer-course-skillup?tag=fullstack%20java">java fullstack by Simplilearn</a></li>
+
 
 
      
@@ -167,8 +173,7 @@
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-introduction">Introduction to C++ by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-plus-plus-intermediate">Intermediate C++ by Sololearn</a></li>
 <li><a href="https://www.simplilearn.com/free-course-to-learn-cpp-basics-skillup">Learn C++ by Simplilearn</a></li>
-<li><a href=""></a></li>
-
+<li><a href="https://www.simplilearn.com/advanced-c-plus-plus-course-skillup?tag=C">Advanced c++ by Simplilearn</a></li>
 
 </details>
 
@@ -180,6 +185,10 @@
  <li><a href="https://masai-school.learnworlds.com/course/typescript">TypeScript by Masai School</a></li>
  <li><a href="https://www.simplilearn.com/free-typescript-course-skillup?term=typescr">Learn Typescript by Simplilearn</a></li>
 <li><a href="https://www.mindluster.com/certificate/242">Typescript by Mindluster</a></li>
+<li><a href=""></a></li>
+
+<li><a href=""></a></li>
+
 </details>
   
   <hr>
@@ -205,7 +214,7 @@
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/php">PHP by Great learning</a></li>
  <li><a href="https://www.sololearn.com/learning/1059">PHP by Sololearn</a></li>
 <li><a href="https://www.mindluster.com/certificate/71">php frontend and backend by Mindluster</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.simplilearn.com/learn-php-basics-free-course-skillup?tag=Introduction%20to%20PHP%20Basics">Intro to PHP by Simplilearn</a></li>
 <li><a href=""></a></li>
 
 
@@ -218,8 +227,8 @@
  <details><summary> <strong> Swift </strong> </summary>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/swift-tutorial">Swift tutorial by Great Learning</a></li>
  <li><a href="https://www.sololearn.com/learning/1075">Swift4 by Sololearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.mindluster.com/certificate/225">Swift ios by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/3416">Build basic swift apps by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -303,7 +312,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 
 </details>
@@ -318,6 +327,9 @@
 <img src="https://skillicons.dev/icons?i=vue"/>
  <details><summary> <strong> Vue.js </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li> 
+ <li><a href="https://www.mindluster.com/certificate/231">Vue js by Mindluster</a></li>
+ 
+ 
 </details>
 
 
@@ -333,17 +345,9 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/angular7-for-advanced-level">Advanced angular by Great Learning</a></li>
 <li><a href="https://www.simplilearn.com/learn-angular-basics-free-course-skillup">Basic Angular by Simplilearn</a></li>
 <li><a href="https://www.mindluster.com/certificate/57">Angular with firebase by Mindluster</a></li>
+<li><a href="https://www.sololearn.com/learning/1092">Angular with Nestjs</a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
  
 
 </details>
@@ -362,7 +366,7 @@
 <li><a href="https://www.mindluster.com/certificate/38">React with projects by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Reactjs for beginner by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -427,10 +431,12 @@
 
 <img src="https://skillicons.dev/icons?i=mongdb"/>
  <details><summary> <strong> MongoDB </strong> </summary>
+ 
+ 
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/mongodb-tutorial">MongoDb Tutorial by Great Learning</a></li>
 <li><a href="https://www.mindluster.com/certificate/538">Mongodb by Mindluster</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.simplilearn.com/learn-mongodb-basics-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">MongoDB by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -632,7 +638,7 @@
  <li><a href="https://masai-school.learnworlds.com/course/basics-of-frontend-development-part2">basics of frontend development part2 by Masai School</a></li>
 <li><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design by freecodecamp</a></li>
 <li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">Front End Development Libraries by freecodecamp</a></li>
- <li><a href=""></a></li>
+ <li><a href="https://www.simplilearn.com/front-end-developer-free-course-skillup?tag=Front-End%20Development">Frontend Development by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -675,8 +681,9 @@
 <hr>
  <img src="https://skillicons.dev/icons?i=d3"/>
        <details><summary> <strong>D3</strong> </summary>
- <li><a ">     </a></li>
-  <li><a ">     </a></li>
+         <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data visualization using D3  </a></li>
+ <li><a href="https://www.mindluster.com/certificate/92"> D3 by Mindluster  </a></li>
+
 
  <li><a ">     </a></li>
 
@@ -692,7 +699,7 @@
 
 <li><a href="https://www.mindluster.com/certificate/68">Nodejs by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/39">Full Nodejs with js by Mindluster</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.simplilearn.com/learn-nodejs-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Getting Started With Nodejs by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -713,7 +720,7 @@
  <img srf="https://skillicons.dev/icons?i=django"/>
        <details><summary> <strong>Django</strong> </summary>
  <li><a href="https://www.mindluster.com/certificate/8482">Django Programming by Mindluster     </a></li>
-  <li><a ">     </a></li>
+  <li><a "https://www.mindluster.com/certificate/262">Create a Blog with Django by Mindluster     </a></li>
 
  <li><a ">     </a></li>
 
@@ -735,7 +742,7 @@
 
  <li><a href="https://www.mygreatlearning.com/docker/free-courses?p=1&duration=medium"> Docker for Intermediate level by Great Learning</a></li>
 
- <li><a ">     </a></li>
+ <li><a href="https://www.mindluster.com/certificate/4616">Docker from zero by Mindluster</a></li>
        
   </details>
   <hr>
@@ -747,7 +754,7 @@
 
  <li><a href="https://www.mindluster.com/certificate/8611">Aws for beginners by Mindluster </a></li>
 
- <li><a ">     </a></li>
+ <li><a href="https://www.simplilearn.com/learn-aws-basics-free-training-course-skillup?tag=Home%20%3E%20Cloud%20Computing%20%3EFree%20Tutorial%20on%20AWS%20S3%20AWS%20S3%20Tutorial%20for%20Beginners">Getting Started with aws Simplilearn     </a></li>
 
  <li><a ">     </a></li>
        
@@ -759,7 +766,7 @@
  <details><summary> <strong> Git </strong> </summary>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/github-tutorial-for-beginners1">Git and Github Tutorial by Great Learning</a></li>
 <li><a href="https://www.mindluster.com/certificate/8475">Git by Mindluster</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.simplilearn.com/learn-git-basics-skillup?tag=GIT%20Training">Git Training by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
