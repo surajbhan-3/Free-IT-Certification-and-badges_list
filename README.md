@@ -47,7 +47,7 @@
  <li><a  href="https://www.mindluster.com/certificate/75 "> Bootstrap5 by Mindluster    </a></li>
 
 
- <li><a ">     </a></li>
+ <li><a href="https://www.hackerrank.com/skills-verification/css">  Css by Hackerrank   </a></li>
 
  <li><a ">     </a></li>
 
@@ -99,6 +99,8 @@
 <li><a href="https://www.sololearn.com/learn/courses/javascript-intermediate">Javascript Intermediate by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learning/1175">Game Development by Soloearn</a></li>
   <li><a href="https://www.mindluster.com/certificate/65">Vanilla Javascript by Mindluster</a></li>
+ <li><a href="https://www.hackerrank.com/skills-verification/javascript_basic">Javascript basic by Hackerrank</a></li> 
+  <li><a href="https://www.hackerrank.com/skills-verification/javascript_intermediate">Javascript Intermediate by Hackerrank</a></li> 
 
 
 </details>
@@ -118,6 +120,8 @@
 <li><a href="https://www.sololearn.com/learn/courses/python-introduction">Introduction to Python by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/python-intermediate">Intermediate Python by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learning/1159">Python Data Structure by Sololearn</a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/python_basic">Python basic by Hackerrank</a></li>
+<li><a href=""></a></li>
 
 
 </details> 
@@ -137,9 +141,8 @@
 <li><a href="https://www.sololearn.com/learn/courses/java-intermediate">Java Intermediate by Sololearn</a></li>
 <li><a href="https://data-flair.training/free-java-course/">java course by Data flair</a></li>
 <li><a href="https://www.simplilearn.com/learn-java-basics-skillup?tag=fullstack%20java">java Basics skills fullstack by Simplilearn</a></li>
-
 <li><a href="https://www.simplilearn.com/free-full-stack-java-developer-course-skillup?tag=fullstack%20java">java fullstack by Simplilearn</a></li>
-
+ <li><a href="https://www.hackerrank.com/skills-verification/java_basic">Basic of Java by Hackerrank</a></li>
 
 
      
@@ -164,6 +167,10 @@
  <details><summary> <strong> C#</strong> </summary>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-introduction">Introduction to C# by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-intermediate">C# intermediate by Sololearn</a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/c_sharp_basic">C# basic by Hackerrank</a></li>
+
+
+
 
 </details>
 
@@ -203,8 +210,8 @@
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/go-programming-language">Go programming language by Great Learning</a></li>
 <li><a href="https://www.sololearn.com/learning/1164">Go by Sololearn</a></li>
 <li><a href="https://www.mindluster.com/certificate/332">Go by Mindluster</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/golang_basic">Golang basic by Hakcerrank</a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/golang_intermediate">Golang intermediate by Hackerrank</a></li>
 
 
 
@@ -349,7 +356,9 @@
 <li><a href="https://www.simplilearn.com/learn-angular-basics-free-course-skillup">Basic Angular by Simplilearn</a></li>
 <li><a href="https://www.mindluster.com/certificate/57">Angular with firebase by Mindluster</a></li>
 <li><a href="https://www.sololearn.com/learning/1092">Angular with Nestjs</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/angular_basic">Angular Basic by Hackerrank</a></li>
+
+<li><a href="https://www.hackerrank.com/skills-verification/angular_intermediate">Angular Intermediate by Hackerrank</a></li>
 
  
 
@@ -370,7 +379,7 @@
 <li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
 <li><a href="https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Reactjs for beginner by Simplilearn</a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/react_basic">React basic by Hackerrank</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -398,9 +407,8 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
+
  
 
 </details>
@@ -422,6 +430,10 @@
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-sql">Advanced sql by Great Learning</a></li>
   <li><a href="https://www.sololearn.com/learn/courses/sql-introduction">Introduction to sql by Sololearn</a></li>
   <li><a href="https://www.sololearn.com/learn/courses/sql-intermediate">Intermediate Sql by Sololearn</a></li>
+  <li><a href="https://www.hackerrank.com/skills-verification/sql_basic">Sql basic by Hackerrank</a></li>
+  <li><a href="https://www.hackerrank.com/skills-verification/sql_intermediate">Sql Intermediate by Hackerrank</a></li>
+  <li><a href="https://www.hackerrank.com/skills-verification/sql_advanced">Sql Advanced by Hackerrank</a></li>
+
  
 </details>
 
@@ -703,8 +715,8 @@
 <li><a href="https://www.mindluster.com/certificate/68">Nodejs by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/39">Full Nodejs with js by Mindluster</a></li>
 <li><a href="https://www.simplilearn.com/learn-nodejs-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Getting Started With Nodejs by Simplilearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/nodejs_basic">Nodejs basic by Hackerrank</a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/nodejs_intermediate">Nodejs Intermediate by Hackerrank</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -752,6 +764,7 @@
   
    <img src="https://skillicons.dev/icons?i=aws"/>
        <details><summary> <strong>AWS</strong> </summary>
+       <li><a href="https://aws.amazon.com/training/restart/">Aws restart by AWS</a></li>
  <li><a href="https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1">Aws for beginners by Great Learning</a></li>
 
@@ -770,7 +783,7 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/github-tutorial-for-beginners1">Git and Github Tutorial by Great Learning</a></li>
 <li><a href="https://www.mindluster.com/certificate/8475">Git by Mindluster</a></li>
 <li><a href="https://www.simplilearn.com/learn-git-basics-skillup?tag=GIT%20Training">Git Training by Simplilearn</a></li>
-<li><a href=""></a></li>
+
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
