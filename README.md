@@ -34,41 +34,30 @@
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/css-properties">Css Propertise by Great Learning</a></li>
         
  <li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
-        
- 
-       
-  </details>
-  
-  <hr>
-  <img src="https://skillicons.dev/icons?i=bootstrap"/>
-       <details><summary> <strong>Bootstrap </strong> </summary>
-       <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
-     <li><a href="https://www.mindluster.com/certificate/1559"> Bootstrap for beginner by Mindluster   </a></li>    
+  <li><a href="https://www.hackerrank.com/skills-verification/css">  Css by Hackerrank   </a></li>
+  <br>
+   <blockquote><strong>Css Frameworks</strong></blockquote>
+       <img src="https://skillicons.dev/icons?i=bootstrap"/>
+     <details><summary> <strong>Bootstrap  </strong> </summary>
+     <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
+    <li><a href="https://www.mindluster.com/certificate/1559"> Bootstrap for beginner by Mindluster   </a></li>    
  <li><a  href="https://www.mindluster.com/certificate/75 "> Bootstrap5 by Mindluster    </a></li>
-
-
- <li><a href="https://www.hackerrank.com/skills-verification/css">  Css by Hackerrank   </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-       
   </details>
- 
- <hr>
- 
+  <hr> 
   <img src="https://skillicons.dev/icons?i=tailwind"/>
        <details><summary> <strong>Tailwind </strong> </summary>
  <li><a href="https://www.mindluster.com/certificate/238"> Tailwind by Mindluster  </a></li>
   <li><a ">     </a></li>
 
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-       
   </details>
+ 
+ 
+      
+  </details>
+ 
+
+
+ 
 <hr>
   
   <img src="https://skillicons.dev/icons?i=materialui"/>
