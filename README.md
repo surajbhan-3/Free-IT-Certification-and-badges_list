@@ -36,7 +36,7 @@
  <li><a href="https://www.sololearn.com/learn/courses/css-introduction">CSS Introduction by Sololearn</a></li>
   <li><a href="https://www.hackerrank.com/skills-verification/css">  Css by Hackerrank   </a></li>
   <br>
-   <blockquote><strong>Css Frameworks</strong></blockquote>
+   <blockquote><strong>Css Frameworks,Libraries or Related to Css</strong></blockquote>
        <img src="https://skillicons.dev/icons?i=bootstrap"/>
      <details><summary> <strong>Bootstrap  </strong> </summary>
      <li><a href="https://masai-school.learnworlds.com/course/bootstrap-css">Bootstrap css by Masai School</a></li>
@@ -90,7 +90,60 @@
   <li><a href="https://www.mindluster.com/certificate/65">Vanilla Javascript by Mindluster</a></li>
  <li><a href="https://www.hackerrank.com/skills-verification/javascript_basic">Javascript basic by Hackerrank</a></li> 
   <li><a href="https://www.hackerrank.com/skills-verification/javascript_intermediate">Javascript Intermediate by Hackerrank</a></li> 
+ <br>
+   <blockquote><strong>Javascript Frameworks,Libraries or Related to Javascript</strong></blockquote>
+     
+  <hr> 
 
+<img src="https://skillicons.dev/icons?i=react"/>
+ <details><summary> <strong> React </strong> </summary>
+
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">React by Freecodecamp</a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
+<li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
+
+<li><a href="https://www.mindluster.com/certificate/38">React with projects by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
+<li><a href="https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Reactjs for beginner by Simplilearn</a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/react_basic">React basic by Hackerrank</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+ 
+
+</details>
+   
+   <hr>
+   
+   <img src="https://skillicons.dev/icons?i=vue"/>
+ <details><summary> <strong> Vue.js </strong> </summary>
+ <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li> 
+ <li><a href="https://www.mindluster.com/certificate/231">Vue js by Mindluster</a></li>
+ 
+ 
+</details>
+   
+   <hr>
+   <img src="https://skillicons.dev/icons?i=d3"/>
+       <details><summary> <strong>D3</strong> </summary>
+         <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data visualization using D3  </a></li>
+ <li><a href="https://www.mindluster.com/certificate/92"> D3 by Mindluster  </a></li>
+
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+
+ <li><a ">     </a></li>
+       
+  </details>
+   
+<hr>
 
 </details>
 
@@ -323,13 +376,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=vue"/>
- <details><summary> <strong> Vue.js </strong> </summary>
- <li><a href="https://masai-school.learnworlds.com/course/build-an-online-store-using-vue-3-and-firebase">Introduction to Vue and Firebase by Masai School</a></li> 
- <li><a href="https://www.mindluster.com/certificate/231">Vue js by Mindluster</a></li>
- 
- 
-</details>
+
 
 
 
@@ -352,33 +399,9 @@
  
 
 </details>
-  
-  
-  <hr>
-
-
-<img src="https://skillicons.dev/icons?i=react"/>
- <details><summary> <strong> React </strong> </summary>
-
-<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">React by Freecodecamp</a></li>
-  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
-<li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
-
-<li><a href="https://www.mindluster.com/certificate/38">React with projects by Mindluster</a></li>
-<li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
-<li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
-<li><a href="https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Reactjs for beginner by Simplilearn</a></li>
-<li><a href="https://www.hackerrank.com/skills-verification/react_basic">React basic by Hackerrank</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
  
 
-</details>
+
 
 
 <hr>
@@ -683,19 +706,7 @@
 </details>
 
 <hr>
- <img src="https://skillicons.dev/icons?i=d3"/>
-       <details><summary> <strong>D3</strong> </summary>
-         <li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data visualization using D3  </a></li>
- <li><a href="https://www.mindluster.com/certificate/92"> D3 by Mindluster  </a></li>
-
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-       
-  </details>
+ 
   <hr>
 
 <img  src="https://skillicons.dev/icons?i=nodejs"/>
