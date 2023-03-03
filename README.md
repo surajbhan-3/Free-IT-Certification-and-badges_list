@@ -560,7 +560,7 @@
 <img src="https://skillicons.dev/icons?i=maria"/>
  <details><summary> <strong> MariaDB </strong> </summary>
 
-  <li><a href=""></a></li>
+  <li><a href="https://www.mindluster.com/certificate/8194">By Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -759,7 +759,7 @@
 
  <li><a href="https://www.simplilearn.com/learn-aws-basics-free-training-course-skillup?tag=Home%20%3E%20Cloud%20Computing%20%3EFree%20Tutorial%20on%20AWS%20S3%20AWS%20S3%20Tutorial%20for%20Beginners">Getting Started with aws Simplilearn     </a></li>
 
- <li><a ">     </a></li>
+ <li><a href="https://www.edureka.co/free-course/learn-aws-basics-online">Learn Aws basics by Edureka!     </a></li>
        
   </details>
 
