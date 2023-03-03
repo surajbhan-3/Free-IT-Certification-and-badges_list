@@ -1,10 +1,14 @@
 # Free-IT-Certification_list
+<blockquote>
+<p>
+  Some certification are professional certification 
+</p>
 
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,,cpp,python,,ts,go,mysql,mongodb,vue,sass,react,postgres,
-,linux,kotlin,flutter"/> -->
+</blockquote>
 
 
 <img src="https://skillicons.dev/icons?i=html"/>
+
  <details><summary> <strong> HTML </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a</li>
@@ -12,7 +16,6 @@
 <li><a href="https://testbook.com/html-tutorial-for-beginners/online-coaching-free-certification-course">Html Tutorial by Testbook</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li>
 </details>
-
 
 <hr>
 
@@ -508,7 +511,7 @@
 <img src="https://skillicons.dev/icons?i=redis"/>
  <details><summary> <strong> Redis </strong> </summary>
 
-  <li><a href=""></a></li>
+  <li><a href="https://university.redis.com/certification/">Redis by Redis</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
