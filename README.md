@@ -5,6 +5,13 @@
 </p>
 
 </blockquote>
+<br>
+
+### Picture at a Glance
+
+### Picture at a Glance
+
+<hr>
 
 
 <img src="https://skillicons.dev/icons?i=html"/>
@@ -835,18 +842,18 @@
 * <a href="https://learn.saylor.org/course/view.php?id=93">CS403: Introduction to Modern Database Systems   by Saylor.org [Certificate]</a>
 
 * <a href="https://learn.saylor.org/course/view.php?id=453">CS406: Information Security    by Saylor.org [Certificate]</a>
-* <a href=""></a>
+* <a href="https://cs50.harvard.edu/x/2023/certificate/">CS50: Introduction to Computer Science by Harvard [Certificate]</a>
 * <a href=""></a>
 
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
+* <a href="https://online.stanford.edu/courses/soe-y0001-cryptography-i">Cryptography I by  Stanford School of Engineering [Statement of Accomplishment]</a>
+* <a href="https://online.stanford.edu/courses/soe-ycs0002-game-theory">Game Theory by Stanford School of Engineering [Statement of Accomplishment]</a>
+* <a href="https://online.stanford.edu/courses/soe-ycsautomata-automata-theory">Automata Theory Stanford School of Engineering [Statement of Accomplishment]</a>
+* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373922071276748820/overview">Young Python Professional by Infosys [Certificate]</a>
+* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373921365530214418/overview">Young Java Professional by Infosys [Certificate]</a>
+* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013732688014811136212/overview">Young IoT Prodigy by Infosys [Certificate]</a>
 
  
  
