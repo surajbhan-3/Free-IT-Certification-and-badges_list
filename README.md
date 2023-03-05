@@ -813,25 +813,41 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
+
 </details>
 
 
 
-
-
-### Harvard University
 <hr>
-### Standford University
- 
- <hr> 
-## Saylor.org
- <hr>
-### IBM
- <hr>
-### Google 
- <hr>
- ### Cisco
+<br>
+
+* <a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing">Digital Marketing  by Google [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=6">Introduction to Computer Science I    by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=64">Introduction to Computer Science II    by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=439">CS105: Introduction to Python       by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=500">CS120: Bitcoin for Developers I   by Saylor.org [certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=66">CS201: Elementary Data Structures   by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=67">CS202: Discrete Structures  by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=71">CS301: Computer Architecture  by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=73">CS302: Software Engineering   by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=94">CS401: Operating Systems     by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=84">CS402: Computer Communications and Networks    by Saylor.org [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=93">CS403: Introduction to Modern Database Systems   by Saylor.org [Certificate]</a>
+
+* <a href="https://learn.saylor.org/course/view.php?id=453">CS406: Information Security    by Saylor.org [Certificate]</a>
+* <a href=""></a>
+* <a href=""></a>
+
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+
  
  
 
