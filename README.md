@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind"/>
        <details><summary> <strong>Tailwind </strong> </summary>
  <li><a href="https://www.mindluster.com/certificate/238"> Tailwind by Mindluster  </a></li>
-  <li><a ">     </a></li>
+
 
   </details>
  
@@ -111,13 +111,7 @@
   <img src="https://skillicons.dev/icons?i=materialui"/>
        <details><summary> <strong>Materialui </strong> </summary>
  <li><a href="https://www.mindluster.com/certificate/2447">Learn materialui by mindluster </a></li>
-  <li><a "">     </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
+  
        
   </details>
    
@@ -138,11 +132,6 @@
  <li><a href="https://www.mindluster.com/certificate/92"> D3 by Mindluster  </a></li>
 
 
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
        
   </details>
    
@@ -284,18 +273,7 @@
  <li><a href="https://www.sololearn.com/learning/1075">Swift4 by Sololearn</a></li>
 <li><a href="https://www.mindluster.com/certificate/225">Swift ios by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/3416">Build basic swift apps by Mindluster</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 
 </details>
@@ -307,18 +285,6 @@
  <details><summary> <strong> Springboot </strong> </summary>
 
 <li><a href="https://www.mindluster.com/certificate/401">Learn springboot by Mindluster</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 <li><a href=""></a></li>
 
 
@@ -332,19 +298,7 @@
  <li><a href="https://www.sololearn.com/learning/1160">Kotlin by Sololearn</a></li>
  <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 
 </details>
@@ -354,18 +308,6 @@
 <img src="https://skillicons.dev/icons?i=ruby"/>
  <details><summary> <strong> Ruby </strong> </summary>
  <li><a href="https://www.sololearn.com/learning/1081">Ruby By Sololearn</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 <li><a href=""></a></li>
 
 
@@ -417,11 +359,7 @@
 <li><a href="https://www.mindluster.com/certificate/67">Laravel from scratch by Mindluster</a></li>
 <li><a href="https://www.mindluster.com/certificate/245">Laravel 6 by Mindluster</a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 
  
@@ -469,16 +407,7 @@
 <li><a href="https://www.simplilearn.com/learn-mongodb-basics-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">MongoDB by Simplilearn</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 </details>
 
@@ -490,17 +419,6 @@
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/my-sql-basics">Mysql Basics by Greatlearning</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/python-mysql">Python My sql</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
  
@@ -517,17 +435,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
  
 
 </details>
@@ -543,16 +451,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
  
 
 </details>
@@ -563,17 +462,6 @@
  <details><summary> <strong> Cassandra </strong> </summary>
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/cassandra-tutorial">Cassandra Tutorial by Great Learning</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
@@ -592,16 +480,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
  
 
 </details>
@@ -620,14 +499,7 @@
 <li><a href="https://www.mindluster.com/certificate/379">Machine learning field by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 </details>
 
@@ -642,16 +514,7 @@
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/ux-portfolio">UX Portfolio by Great Learning</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
  
 <li><a href=""></a></li>
  
@@ -673,16 +536,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 </details>
 
 
@@ -694,17 +548,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 </details>
 
@@ -722,14 +566,7 @@
 <li><a href="https://www.hackerrank.com/skills-verification/nodejs_intermediate">Nodejs Intermediate by Hackerrank</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li> 
- 
+
 
 </details>
 
@@ -738,13 +575,8 @@
  <img srf="https://skillicons.dev/icons?i=django"/>
        <details><summary> <strong>Django</strong> </summary>
  <li><a href="https://www.mindluster.com/certificate/8482">Django Programming by Mindluster     </a></li>
-  <li><a "https://www.mindluster.com/certificate/262">Create a Blog with Django by Mindluster     </a></li>
+  <li><a href="https://www.mindluster.com/certificate/262">Create a Blog with Django by Mindluster     </a></li>
 
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
-
- <li><a ">     </a></li>
        
   </details>
 
@@ -768,7 +600,7 @@
    <img src="https://skillicons.dev/icons?i=aws"/>
        <details><summary> <strong>AWS</strong> </summary>
        <li><a href="https://aws.amazon.com/training/restart/">Aws restart by AWS</a></li>
- <li><a href="https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodeklound   </a></li>
+ <li><a href="https://kodekloud.com/courses/aws-cloud-for-beginners/"> Aws cloud for Beginners by Kodekloud   </a></li>
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/aws-for-beginners1">Aws for beginners by Great Learning</a></li>
 
  <li><a href="https://www.mindluster.com/certificate/8611">Aws for beginners by Mindluster </a></li>
@@ -790,14 +622,7 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
   
  
 
@@ -814,12 +639,7 @@
 <li><a href="https://www.mindluster.com/certificate/8469">Linux/mac by Mindluster</a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+
 
 </details>
 
@@ -844,7 +664,6 @@
 * <a href="https://learn.saylor.org/course/view.php?id=453">CS406: Information Security    by Saylor.org [Certificate]</a>
 * <a href="https://cs50.harvard.edu/x/2023/certificate/">CS50: Introduction to Computer Science by Harvard [Certificate]</a>
 * <a href=""></a>
-
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
@@ -857,9 +676,6 @@
 
  
  
-
-
-
 
 <hr>
   Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men. Enthusiasm in our daily work lightens effort and turns even      labor into pleasant tasks.
