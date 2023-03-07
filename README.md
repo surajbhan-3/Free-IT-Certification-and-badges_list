@@ -679,6 +679,23 @@
 * <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373921365530214418/overview">Young Java Professional by Infosys [Certificate]</a>
 * <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013732688014811136212/overview">Young IoT Prodigy by Infosys [Certificate]</a>
 
+* <a href="https://www.freecodecamp.org/learn/quality-assurance/">Quality Assurance by Freecodecamp</a> [Certificate]
+* <a href="https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs">Information Security by Freecodecamp</a>[Certificate]
+* <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python by Freecodecamp</a>[Certificate]
+* <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific computing with Python by Freecodecamp</a> [Certificate]
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+
  
  
 
@@ -694,4 +711,5 @@
  2.https://www.flaticon.com/
 
 
-
+Buy Me a Coffee 
+<a href="https://ko-fi.com/surajbhan">gekki</a>
