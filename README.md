@@ -683,8 +683,8 @@
 * <a href="https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs">Information Security by Freecodecamp</a>[Certificate]
 * <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python by Freecodecamp</a>[Certificate]
 * <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific computing with Python by Freecodecamp</a> [Certificate]
-* <a href=""></a>
-* <a href=""></a>
+* <a href="https://www.lambdatest.com/certifications/selenium-101">Selenium 101 by Lambdatest</a>[Certificate]
+* <a href="https://www.hackerrank.com/skills-verification/rest_api_intermediate">Rest Api by Hackerrank</a> [certificate]
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
