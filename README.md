@@ -696,6 +696,23 @@
 * <a href=""></a>
 * <a href=""></a>
 
+   <hr>
+   <br>
+   
+## Free Certification Provided by Government of India and Private Companies Partnerships 
+  
+   
+* <a href=" https://futureskillsprime.in/course/introduction-to-vmware-cloud-disaster-recovery">Introduction to vmware cloud disaster recovery by Vmware</a> [Joint Co-Branded Participation Certificate]
+* <a href="https://futureskillsprime.in/course/vmware-cloud-native-applications-fundamentals">Vmware cloud native application by Vmware</a>[Joint Co-Branded Participation Certificate]
+* <a href="https://futureskillsprime.in/course/nsx-advanced-load-balancer-fundamentals">NSX advanced load balancers fundamentals by Vmware</a>[Joint Co-Branded Participation Certificate]
+* <a href="https://futureskillsprime.in/course/adobe-ux-foundation-learning-journey">Adobe UX foundataion learning journey by Adobe</a>Joint Co-Branded Participation Certificate]
+* <a href="https://futureskillsprime.in/course/fundamentals-of-data-analytics">Fundamentals of Data Analytics by Leaps</a>[Joint Co-Branded Participation Certificate + Nasscom Assessment]
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+     
  
  
 
