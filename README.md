@@ -666,7 +666,11 @@
 * <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific computing with Python by Freecodecamp</a> [Certificate]
 * <a href="https://www.lambdatest.com/certifications/selenium-101">Selenium 101 by Lambdatest</a>[Certificate]
 * <a href="https://www.hackerrank.com/skills-verification/rest_api_intermediate">Rest Api by Hackerrank</a> [certificate]
-* <a href=""></a>
+* <a href="https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning">Intro to game ai and reinforcement learning by Kaggle</a> [Certificate]
+* <a href="https://www.kaggle.com/learn/geospatial-analysis">Geospatial analysis by Kaggle</a> [Certificate]
+* <a href="https://www.kaggle.com/learn/data-cleaning">Data Cleaning by Kaggle</a> [Certificate]
+* <a href="https://www.kaggle.com/learn/computer-vision">Computer vision by Kaggle</a> [Certificate]
+* <a href="https://www.kaggle.com/learn/pandas">Pandas by Kaggle</a> [Certificate]
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
@@ -688,6 +692,13 @@
 * <a href="https://futureskillsprime.in/course/nsx-advanced-load-balancer-fundamentals">NSX advanced load balancers fundamentals by Vmware</a>[Joint Co-Branded Participation Certificate]
 * <a href="https://futureskillsprime.in/course/adobe-ux-foundation-learning-journey">Adobe UX foundataion learning journey by Adobe</a>Joint Co-Branded Participation Certificate]
 * <a href="https://futureskillsprime.in/course/fundamentals-of-data-analytics">Fundamentals of Data Analytics by Leaps</a>[Joint Co-Branded Participation Certificate + Nasscom Assessment]
+
+* <a href=""></a>
+   
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
