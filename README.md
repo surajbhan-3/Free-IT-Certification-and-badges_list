@@ -286,7 +286,7 @@
   <hr>
   
   
-<img src="https://skillicons.dev/icons?i=springboot"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
  <details><summary> <strong> Springboot </strong> </summary>
 
 <li><a href="https://www.mindluster.com/certificate/401">Learn springboot by Mindluster</a></li>
@@ -321,18 +321,6 @@
 
 
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-  <hr>
   
 <img src="https://skillicons.dev/icons?i=angular"/>
  <details><summary> <strong> Angular </strong> </summary>
@@ -402,7 +390,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=mongdb"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
  <details><summary> <strong> MongoDB </strong> </summary>
  
  
@@ -474,10 +462,7 @@
 
 </details>
 
-
   <hr>
-
-<img src="https://skillicons.dev/icons?i=maria"/>
  <details><summary> <strong> MariaDB </strong> </summary>
 
   <li><a href="https://www.mindluster.com/certificate/8194">By Mindluster</a></li>
@@ -553,13 +538,9 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
-
-
 </details>
 
 <hr>
- 
-  <hr>
 
 <img  src="https://skillicons.dev/icons?i=nodejs"/>
  <details><summary> <strong> Node.js </strong> </summary>
