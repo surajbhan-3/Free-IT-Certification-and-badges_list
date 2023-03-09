@@ -634,31 +634,31 @@
 <hr>
 <br>
 
-* <a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing">Digital Marketing  by Google [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=6">Introduction to Computer Science I    by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=64">Introduction to Computer Science II    by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=439">CS105: Introduction to Python       by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=500">CS120: Bitcoin for Developers I   by Saylor.org [certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=66">CS201: Elementary Data Structures   by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=67">CS202: Discrete Structures  by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=71">CS301: Computer Architecture  by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=73">CS302: Software Engineering   by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=94">CS401: Operating Systems     by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=84">CS402: Computer Communications and Networks    by Saylor.org [Certificate]</a>
-* <a href="https://learn.saylor.org/course/view.php?id=93">CS403: Introduction to Modern Database Systems   by Saylor.org [Certificate]</a>
+* <a href="https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing">Digital Marketing  by Google </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=6">Introduction to Computer Science I    by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=64">Introduction to Computer Science II    by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=439">CS105: Introduction to Python       by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=500">CS120: Bitcoin for Developers I   by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=66">CS201: Elementary Data Structures   by Saylor.org</a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=67">CS202: Discrete Structures  by Saylor.org</a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=71">CS301: Computer Architecture  by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=73">CS302: Software Engineering   by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=94">CS401: Operating Systems     by Saylor.org </a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=84">CS402: Computer Communications and Networks    by Saylor.org [Certificate]</a>[Certificate]
+* <a href="https://learn.saylor.org/course/view.php?id=93">CS403: Introduction to Modern Database Systems   by Saylor.org [Certificate]</a>[Certificate]
 
-* <a href="https://learn.saylor.org/course/view.php?id=453">CS406: Information Security    by Saylor.org [Certificate]</a>
-* <a href="https://cs50.harvard.edu/x/2023/certificate/">CS50: Introduction to Computer Science by Harvard [Certificate]</a>
+* <a href="https://learn.saylor.org/course/view.php?id=453">CS406: Information Security    by Saylor.org </a>[Certificate]
+* <a href="https://cs50.harvard.edu/x/2023/certificate/">CS50: Introduction to Computer Science by Harvard </a> [Certificate]
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
 * <a href="https://online.stanford.edu/courses/soe-y0001-cryptography-i">Cryptography I by  Stanford School of Engineering [Statement of Accomplishment]</a>
-* <a href="https://online.stanford.edu/courses/soe-ycs0002-game-theory">Game Theory by Stanford School of Engineering [Statement of Accomplishment]</a>
-* <a href="https://online.stanford.edu/courses/soe-ycsautomata-automata-theory">Automata Theory Stanford School of Engineering [Statement of Accomplishment]</a>
-* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373922071276748820/overview">Young Python Professional by Infosys [Certificate]</a>
-* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373921365530214418/overview">Young Java Professional by Infosys [Certificate]</a>
-* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013732688014811136212/overview">Young IoT Prodigy by Infosys [Certificate]</a>
+* <a href="https://online.stanford.edu/courses/soe-ycs0002-game-theory">Game Theory by Stanford School of Engineering</a> [Statement of Accomplishment]
+* <a href="https://online.stanford.edu/courses/soe-ycsautomata-automata-theory">Automata Theory Stanford School of Engineering </a>[Statement of Accomplishment]
+* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373922071276748820/overview">Young Python Professional by Infosys </a>[Certificate]
+* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01373921365530214418/overview">Young Java Professional by Infosys </a>[Certificate]
+* <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013732688014811136212/overview">Young IoT Prodigy by Infosys</a> [Certificate]
 
 * <a href="https://www.freecodecamp.org/learn/quality-assurance/">Quality Assurance by Freecodecamp</a> [Certificate]
 * <a href="https://www.freecodecamp.org/learn/information-security/#information-security-with-helmetjs">Information Security by Freecodecamp</a>[Certificate]
@@ -671,6 +671,42 @@
 * <a href="https://www.kaggle.com/learn/data-cleaning">Data Cleaning by Kaggle</a> [Certificate]
 * <a href="https://www.kaggle.com/learn/computer-vision">Computer vision by Kaggle</a> [Certificate]
 * <a href="https://www.kaggle.com/learn/pandas">Pandas by Kaggle</a> [Certificate]
+* <a href="https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/">Introduction to gitops by The Linux Foundation</a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/introduction-to-protocol-buffers-lfs145/">Introduction to Protocol Buffers by The Linux Foundataion</a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/">Green software for practitioners by The Linux Foundation</a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/software-engineering-basics-for-embedded-systems-lfd116/">Software engineering basics for embedded systems by The Linux Foundation </a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/fundamentals-of-quantum-computing-lfq101/">Fundamentals of Quantum Computing by The Linux Foudation</a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/implementing-open-source-license-compliance-management-lfc194/">Implementing open source license compliance management by The Linux Foundation</a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/">Ethics for Open source development by The Linux Foundation </a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/developing-secure-software-lfd121/">Developing Secure Software by The Linux Foundation </a>[Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/">Introduction to Open Source License Compliance Management by The Linux Foundation</a> [Digital Badge] 
+* <a href="https://training.linuxfoundation.org/training/inclusive-strategies-for-open-source-lfc103/">Inclusive Strategies for Open Source by The Linux Foundation </a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/">Inclusive Open Source Community Orientation by The Linux Foundation</a> [Digital Badge]
+* <a href="https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/">A Beginner’s Guide to Linux Kernel Development by The Linux Foundation</a> [Digital Badge]
+* <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner?refid=81ad3c91-d1b1-4a75-90af-b3c48ab4fe43">AWS Cloud Quest by Amazon</a> [Digital Badge]
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
 * <a href=""></a>
@@ -687,7 +723,7 @@
 ## Free Certification Provided by Government of India and Private Companies Partnerships 
   
    
-* <a href=" https://futureskillsprime.in/course/introduction-to-vmware-cloud-disaster-recovery">Introduction to vmware cloud disaster recovery by Vmware</a> [Joint Co-Branded Participation Certificate]
+* <a href="https://futureskillsprime.in/course/introduction-to-vmware-cloud-disaster-recovery">Introduction to vmware cloud disaster recovery by Vmware</a> [Joint Co-Branded Participation Certificate]
 * <a href="https://futureskillsprime.in/course/vmware-cloud-native-applications-fundamentals">Vmware cloud native application by Vmware</a>[Joint Co-Branded Participation Certificate]
 * <a href="https://futureskillsprime.in/course/nsx-advanced-load-balancer-fundamentals">NSX advanced load balancers fundamentals by Vmware</a>[Joint Co-Branded Participation Certificate]
 * <a href="https://futureskillsprime.in/course/adobe-ux-foundation-learning-journey">Adobe UX foundataion learning journey by Adobe</a>Joint Co-Branded Participation Certificate]
