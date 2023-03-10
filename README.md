@@ -470,6 +470,18 @@
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 
  
 
@@ -502,6 +514,14 @@
 
   <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/ui-ux">UI/UX for Beginners by Great Learning</a></li>
 <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/ux-portfolio">UX Portfolio by Great Learning</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 
