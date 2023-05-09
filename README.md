@@ -1,19 +1,9 @@
 # Free-IT-Certification_list_and_Badges
 <blockquote>
 <p>
-  Some certification are professional certification 
+The GitHub repository provides a curated list of free IT certification programs, including both professional certificates and course completion certificates, as well as  online badges offered by various organizations and companies. This repository contains free certification programs and badges from various sources. The repository is updated regularly. Overall, this repository is a helpful resource for anyone looking to improve their skills.
 </p>
 
-</blockquote>
-<br>
-
-### Picture at a Glance
-<blockquote>
-<p>
-  programs
-</p>
-
-</blockquote>
 
 
 <hr>
