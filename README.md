@@ -704,38 +704,19 @@
 * <a href="https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/">Inclusive Open Source Community Orientation by The Linux Foundation</a> [Digital Badge]
 * <a href="https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/">A Beginner’s Guide to Linux Kernel Development by The Linux Foundation</a> [Digital Badge]
 * <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner?refid=81ad3c91-d1b1-4a75-90af-b3c48ab4fe43">AWS Cloud Quest by Amazon</a> [Digital Badge]
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
+* <a href="https://cognitiveclass.ai/badges/data-science-tools">Data Science Tool by IBM</a> [Badge]
+* <a href="https://cognitiveclass.ai/badges/data-visualization-using-python">Data visualization using Python by IBM</a>[Badge]
+* <a href="https://cognitiveclass.ai/badges/docker-essentials">Docker Essentials by IBM </a> [Badge]
+* <a href="https://cognitiveclass.ai/badges/machine-learning-r">Machine Learning R by IBM</a>[Badge]
+* <a href="https://cognitiveclass.ai/badges/big-data-foundations">Big data foundation by IBM </a>[Badge]
+* <a href="https://cognitiveclass.ai/badges/big-data-hadoop-foundations">Big data hadoop by IBM</a> [Badge]
+* <a href="https://cognitiveclass.ai/badges/spark">Spark</a> [Badge]
+* <a href="https://cognitiveclass.ai/badges/data-science-with-scala">Data science with Scala by IBM </a>[Badge]
+* <a href="https://cognitiveclass.ai/badges/big-data-storage-and-retrieval">Big Data Storage and retrieval by IBM </a>[Badge]
+* <a href="https://cognitiveclass.ai/badges/ibm-cloud-native">IBM cloud nativ by IBM </a>[Badge]
+* <a href="https://cognitiveclass.ai/badges/data-ai-essentials">Data ai essentials by IBM</a>[Badge]
+
+
 
    <hr>
    <br>
@@ -749,17 +730,14 @@
 * <a href="https://futureskillsprime.in/course/adobe-ux-foundation-learning-journey">Adobe UX foundataion learning journey by Adobe</a>Joint Co-Branded Participation Certificate]
 * <a href="https://futureskillsprime.in/course/fundamentals-of-data-analytics">Fundamentals of Data Analytics by Leaps</a>[Joint Co-Branded Participation Certificate + Nasscom Assessment]
 
-* <a href=""></a>
+* <a href="https://futureskillsprime.in/course/cloud-computing-foundation-course-by-microsoft">Cloud Computing Foundation by Microsoft</a> [Partner Completion certificate]
    
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
+* <a href="https://futureskillsprime.in/course/programming-basics-for-automation-engineers">Programming basics for automation engineers by Terv</a> [Partner Completion Certificate]
+* <a href="https://futureskillsprime.in/course/cyber-security-essentials">Cyber security essentials by Cisco</a>[Partner Completion Certificate+Nasscom assesment]
+* <a href="https://futureskillsprime.in/courses/azure-ai-fundamentals-ai-900">Azure ai fundamentals by Microsoft</a>[Partner Completion certificate]
+* <a href="https://futureskillsprime.in/courses/security-administrator-associate-ms-500">Security administrator associate by Microsoft</a> [Joint Co-Branded Participation Certificate]
+* <a href="https://futureskillsprime.in/course/data-science-for-beginners">Data Science for beginners by Board</a>[Joint Co-Branded Participation Certificate]
+
      
  
  
