@@ -7,10 +7,7 @@ The GitHub repository provides a curated list of free IT certification programs,
 
 
 <hr>
-
-
 <img src="https://skillicons.dev/icons?i=html"/>
-
  <details><summary> <strong> HTML </strong> </summary>
  <li><a href="https://masai-school.learnworlds.com/course/html-and-css">Basics of Web Development by Masai School</a></li>
  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/html-attributes-and-tags">Html attributes and tags by Great Learning</a</li>
@@ -18,7 +15,6 @@ The GitHub repository provides a curated list of free IT certification programs,
 <li><a href="https://testbook.com/html-tutorial-for-beginners/online-coaching-free-certification-course">Html Tutorial by Testbook</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/html-introduction">Html Introduction by Sololearn</a></li>
 </details>
-
 <hr>
 
 
@@ -84,20 +80,6 @@ The GitHub repository provides a curated list of free IT certification programs,
      
   <hr> 
 
-<img src="https://skillicons.dev/icons?i=react"/>
- <details><summary> <strong> React </strong> </summary>
-
-<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">React by Freecodecamp</a></li>
-  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
-<li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
-
-<li><a href="https://www.mindluster.com/certificate/38">React with projects by Mindluster</a></li>
-<li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
-<li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
-<li><a href="https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Reactjs for beginner by Simplilearn</a></li>
-<li><a href="https://www.hackerrank.com/skills-verification/react_basic">React basic by Hackerrank</a></li>
-<li><a href=""></a></li>
-
 </details>
 
 
@@ -134,7 +116,24 @@ The GitHub repository provides a curated list of free IT certification programs,
 
 </details>
 
-  <hr>
+
+  <img src="https://skillicons.dev/icons?i=react"/>
+ <details><summary> <strong> React </strong> </summary>
+
+<li><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/#react">React by Freecodecamp</a></li>
+  <li><a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/react-js-tutorial">React js Tutorial by Great Learning</a></li>
+<li><a href="https://www.sololearn.com/learning/1097">React+Redux by Sololearn</a></li>
+
+<li><a href="https://www.mindluster.com/certificate/38">React with projects by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/42">Fullstack react with django by Mindluster</a></li>
+<li><a href="https://www.mindluster.com/certificate/252">React hooks by Mindluster</a></li>
+<li><a href="https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?tag=Home%20%3E%20Big%20Data%20%3ELearn%20the%20Basics%20of%20MongoDB%20MongoDB%20Developer%20and%20Administrator">Reactjs for beginner by Simplilearn</a></li>
+<li><a href="https://www.hackerrank.com/skills-verification/react_basic">React basic by Hackerrank</a></li>
+<li><a href=""></a></li>
+ </details>
+<hr>
+
+  
   
 
 <img src="https://skillicons.dev/icons?i=python"/>
