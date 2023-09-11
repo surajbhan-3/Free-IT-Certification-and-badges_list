@@ -458,23 +458,9 @@ The GitHub repository provides a curated list of free IT certification programs,
   <hr>
  <details><summary> <strong> MariaDB </strong> </summary>
 
-  <li><a href="https://www.mindluster.com/certificate/8194">By Mindluster</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+  <li><a href="https://www.mindluster.com/certificate/8194">Maria By Mindluster</a></li>
+<li><a href="https://infyspringboard.onwingspan.com/">Maria DB Course - Beginners to Advanced by Infosys Springboard</a></li>
+
 
  
 
