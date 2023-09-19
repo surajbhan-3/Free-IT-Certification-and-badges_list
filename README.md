@@ -200,6 +200,8 @@ The GitHub repository provides a curated list of free IT certification programs,
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-introduction">Introduction to C# by Sololearn</a></li>
 <li><a href="https://www.sololearn.com/learn/courses/c-sharp-intermediate">C# intermediate by Sololearn</a></li>
 <li><a href="https://www.hackerrank.com/skills-verification/c_sharp_basic">C# basic by Hackerrank</a></li>
+<li><a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">Foundational C# with Microsoft
+</a></li>
 
 
 
