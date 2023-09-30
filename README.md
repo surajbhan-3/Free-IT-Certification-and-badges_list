@@ -684,6 +684,7 @@ The GitHub repository provides a curated list of free IT certification programs,
 * <a href="https://cognitiveclass.ai/badges/big-data-storage-and-retrieval">Big Data Storage and retrieval by IBM </a>[Badge]
 * <a href="https://cognitiveclass.ai/badges/ibm-cloud-native">IBM cloud nativ by IBM </a>[Badge]
 * <a href="https://cognitiveclass.ai/badges/data-ai-essentials">Data ai essentials by IBM</a>[Badge]
+* <a href="https://fullstackopen.com/en/">Deep Dive Into Modern Web Development  </a>[Certification and credit score]
 
 
 
