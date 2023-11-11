@@ -685,6 +685,8 @@ The GitHub repository provides a curated list of free IT certification programs,
 * <a href="https://cognitiveclass.ai/badges/ibm-cloud-native">IBM cloud nativ by IBM </a>[Badge]
 * <a href="https://cognitiveclass.ai/badges/data-ai-essentials">Data ai essentials by IBM</a>[Badge]
 * <a href="https://fullstackopen.com/en/">Deep Dive Into Modern Web Development  </a>[Certification and credit score]
+* <a href="https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US&utm_campaign=writ&utm_content=intro-to-cyber-get-started-button&utm_source=cisco.com&utm_medium=referral"> Introduction to Cybersecurity by Cisco </a> [Badge]
+* <a href="https://skillsforall.com/course/introduction-iot?courseLang=en-US&utm_campaign=writ&utm_content=Introduction-to-iot-get-started-button&utm_source=cisco.com&utm_medium=referral">Introduction to IOT by Cisco</a>[Badge]
 
 
 
